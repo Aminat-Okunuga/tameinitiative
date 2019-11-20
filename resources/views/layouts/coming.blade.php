@@ -41,9 +41,7 @@
                 <div></div>
             </div>
         </div>
-        @include('includes.nav-header')
         @yield('content')
-        @include('includes.footer')
         <div class="clearfix"></div>
     </div>
 

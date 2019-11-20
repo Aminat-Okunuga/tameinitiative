@@ -11,6 +11,9 @@
 |
 */
 
+Route::get('/inner-pages', function () {
+    return view('pages.home.index');
+});
 Route::get('/', function () {
-    return view('welcome');
+    return view('pages.coming-soon');
 });
