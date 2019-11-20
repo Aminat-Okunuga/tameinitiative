@@ -7,8 +7,8 @@
                 <aside class="col-md-4 widget widget_slider">
                     <div class="wm-footer-widget-title"> <h2>Don’t miss this:</h2> </div>
                     <div class="widget_slider_wrap">
-                        <div class="widget_slide_layer"><img src="extra-images/widget-slider-1.jpg" alt=""></div>
-                        <div class="widget_slide_layer"><img src="extra-images/widget-slider-1.jpg" alt=""></div>
+                        <div class="widget_slide_layer"><img src="{{asset("assets")}}/extra-images/widget-slider-1.jpg" alt=""></div>
+                        <div class="widget_slide_layer"><img src="{{asset("assets")}}/extra-images/widget-slider-1.jpg" alt=""></div>
                     </div>
                     <h4>Photo Recap: Charles Jemmington @ <span>Joy Theater New Orleans</span> on 25/04/16</h4>
                 </aside>
@@ -16,7 +16,7 @@
                     <div class="wm-footer-widget-title"> <h2>featured artists:</h2> </div>
                     <ul>
                         <li>
-                            <figure> <a href="artist-single.html"><img src="extra-images/artist-widget-1.jpg" alt=""></a> </figure>
+                            <figure> <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-widget-1.jpg" alt=""></a> </figure>
                             <section class="wm-newsinfo">
                                 <h3><a href="artist-single.html">Annie B. Myers – Pop Singer</a></h3>
                                 <a href="artist-single.html">9 Albums on Sale</a>
@@ -24,7 +24,7 @@
                             </section>
                         </li>
                         <li>
-                            <figure> <a href="artist-single.html"><img src="extra-images/artist-widget-2.jpg" alt=""></a> </figure>
+                            <figure> <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-widget-2.jpg" alt=""></a> </figure>
                             <section class="wm-newsinfo">
                                 <h3><a href="artist-single.html">Chris R. Gonzalez – Soul Singer</a></h3>
                                 <a href="artist-single.html">7 Albums on Sale</a>
@@ -32,7 +32,7 @@
                             </section>
                         </li>
                         <li>
-                            <figure> <a href="artist-single.html"><img src="extra-images/artist-widget-3.jpg" alt=""></a> </figure>
+                            <figure> <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-widget-3.jpg" alt=""></a> </figure>
                             <section class="wm-newsinfo">
                                 <h3><a href="artist-single.html">Ralph L. Franz – Rock Band</a></h3>
                                 <a href="artist-single.html">8 Albums on Sale</a>
@@ -95,7 +95,7 @@
                                     <li><a href="https://www.spotify.com/int/why-not-available/"><i class="flaticon-social-3"></i> spotify</a></li>
                                     <li><a href="http://musicbeats.net/"><i class="flaticon-shape"></i> Musicbeat</a></li>
                                 </ul>
-                                <p>© 2016, All Right <a href="index-2.html">Reserved</a> - by <a href="index-2.html">WebMarce</a></p>
+                                <p>© 2019 TAAMEInitiative, All Right - by <a href="http://devchuksemeka.com">Sleek Artisan</a></p>
                             </div>
                         </div>
                     </div>

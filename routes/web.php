@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/inner-pages', function () {
+Route::get('/inner', function () {
     return view('pages.home.index');
 });
 Route::get('/', function () {

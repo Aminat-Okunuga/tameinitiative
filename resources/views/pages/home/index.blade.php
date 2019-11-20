@@ -198,8 +198,8 @@
                     <aside class="col-md-8 widget widget_slider">
                         <div class="wm-simple-section-heading"><h2>Our Gallery</h2></div>
                         <div class="widget_slider_wrap">
-                            <div class="widget_slide_layer"><img src="extra-images/gallery-section-slider-1.jpg" alt=""></div>
-                            <div class="widget_slide_layer"><img src="extra-images/gallery-section-slider-2.jpg" alt=""></div>
+                            <div class="widget_slide_layer"><img src="{{asset("assets")}}/extra-images/gallery-section-slider-1.jpg" alt=""></div>
+                            <div class="widget_slide_layer"><img src="{{asset("assets")}}/extra-images/gallery-section-slider-2.jpg" alt=""></div>
                         </div>
                     </aside>
 
@@ -230,7 +230,7 @@
                         <div class="wm-event wm-event-list">
                             <ul class="row">
                                 <li class="col-md-12">
-                                    <figure><a href="event-single.html"><img src="extra-images/event-medium-1.jpg" alt=""></a>
+                                    <figure><a href="event-single.html"><img src="{{asset("assets")}}/extra-images/event-medium-1.jpg" alt=""></a>
                                         <figcaption class="wm-bgcolor">
                                             <span>25</span> <span>03</span> <span>16</span>
                                         </figcaption>
@@ -249,7 +249,7 @@
                                     </div>
                                 </li>
                                 <li class="col-md-12">
-                                    <figure><a href="event-single.html"><img src="extra-images/event-medium-2.jpg" alt=""></a>
+                                    <figure><a href="event-single.html"><img src="{{asset("assets")}}/extra-images/event-medium-2.jpg" alt=""></a>
                                         <figcaption class="wm-bgcolor">
                                             <span>15</span> <span>04</span> <span>16</span>
                                         </figcaption>
@@ -268,7 +268,7 @@
                                     </div>
                                 </li>
                                 <li class="col-md-12">
-                                    <figure><a href="event-single.html"><img src="extra-images/event-medium-3.jpg" alt=""></a>
+                                    <figure><a href="event-single.html"><img src="{{asset("assets")}}/extra-images/event-medium-3.jpg" alt=""></a>
                                         <figcaption class="wm-bgcolor">
                                             <span>07</span> <span>05</span> <span>16</span>
                                         </figcaption>
@@ -304,7 +304,14 @@
                         <div class="wm-latest-album">
 
                             <div class="wm-latest-album-slide">
-                                <figure><a href="album-single-post.html" class="graythumb"><img src="extra-images/latest-album-1.jpg" alt=""></a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>
+                                <figure>
+                                    <a href="album-single-post.html" class="graythumb">
+                                        <img src="{{asset("assets")}}/extra-images/latest-album-1.jpg" alt="">
+                                    </a>
+                                    <figcaption>
+                                        <a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a>
+                                    </figcaption
+                                ></figure>
                                 <div class="wm-latest-album-text">
                                     <h2><a href="album-single-post.html">Everything Will Be OK</a></h2>
                                     <span>$23.99</span>
@@ -312,8 +319,11 @@
                                     <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>
                                 </div>
                             </div>
+
                             <div class="wm-latest-album-slide">
-                                <figure><a href="album-single-post.html" class="graythumb"><img src="extra-images/latest-album-2.jpg" alt=""></a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>
+                                <figure><a href="album-single-post.html" class="graythumb">
+                                        <img src="{{asset("assets")}}/extra-images/latest-album-2.jpg" alt="">
+                                    </a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>
                                 <div class="wm-latest-album-text">
                                     <h2><a href="album-single-post.html">You Mean Nothing To Me</a></h2>
                                     <span>$19.00</span>
@@ -321,8 +331,10 @@
                                     <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>
                                 </div>
                             </div>
+
                             <div class="wm-latest-album-slide">
-                                <figure><a href="album-single-post.html" class="graythumb"><img src="extra-images/latest-album-3.jpg" alt=""></a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>
+                                <figure><a href="album-single-post.html" class="graythumb">
+                                        <img src="{{asset("assets")}}/extra-images/latest-album-3.jpg" alt=""></a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>
                                 <div class="wm-latest-album-text">
                                     <h2><a href="album-single-post.html">Heat The Dance Floor</a></h2>
                                     <span>$15.00</span>
@@ -330,8 +342,9 @@
                                     <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>
                                 </div>
                             </div>
+
                             <div class="wm-latest-album-slide">
-                                <figure><a href="album-single-post.html" class="graythumb"><img src="extra-images/latest-album-2.jpg" alt=""></a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>
+                                <figure><a href="album-single-post.html" class="graythumb"><img src="{{asset("assets")}}/extra-images/latest-album-2.jpg" alt=""></a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>
                                 <div class="wm-latest-album-text">
                                     <h2><a href="album-single-post.html">You Mean Nothing To Me</a></h2>
                                     <span>$19.00</span>
@@ -339,15 +352,12 @@
                                     <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!--// Main Section \\-->
 
-        <!--// Main Section \\-->
         <div class="wm-main-section wm-band-members-full">
             <div class="container">
                 <div class="row">
@@ -356,7 +366,7 @@
                         <div class="wm-artist wm-artist-grid">
                             <ul class="row">
                                 <li class="col-md-3">
-                                    <figure><a href="artist-single.html"><img src="extra-images/artist-grid-1.jpg" alt=""></a>
+                                    <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-1.jpg" alt=""></a>
                                         <figcaption><a href="artist-single.html"><i class="flaticon-link"></i></a></figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
@@ -366,7 +376,7 @@
                                 </li>
                                 <li class="col-md-3">
                                     <figure>
-                                        <a href="artist-single.html"><img src="extra-images/artist-grid-2.jpg" alt=""></a>
+                                        <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-2.jpg" alt=""></a>
                                         <figcaption><a href="artist-single.html"><i class="flaticon-link"></i></a></figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
@@ -376,7 +386,7 @@
                                 </li>
                                 <li class="col-md-3">
                                     <figure>
-                                        <a href="artist-single.html"><img src="extra-images/artist-grid-3.jpg" alt=""></a>
+                                        <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-3.jpg" alt=""></a>
                                         <figcaption><a href="artist-single.html"><i class="flaticon-link"></i></a></figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
@@ -386,7 +396,7 @@
                                 </li>
                                 <li class="col-md-3">
                                     <figure>
-                                        <a href="artist-single.html"><img src="extra-images/artist-grid-4.jpg" alt=""></a>
+                                        <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-4.jpg" alt=""></a>
                                         <figcaption> <a href="artist-single.html"><i class="flaticon-link"></i></a> </figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
