@@ -95,7 +95,7 @@
                                     <li><a href="https://www.spotify.com/int/why-not-available/"><i class="flaticon-social-3"></i> spotify</a></li>
                                     <li><a href="http://musicbeats.net/"><i class="flaticon-shape"></i> Musicbeat</a></li>
                                 </ul>
-                                <p>© 2019 TAAMEInitiative, All Right - by <a href="http://devchuksemeka.com">Sleek Artisan</a></p>
+                                <p>© 2019 TAAMEInitiative, All Right - by <a href="http://devchuksemeka.com">DevChuksEmeka</a></p>
                             </div>
                         </div>
                     </div>
@@ -108,41 +108,41 @@
     <!--// Player \\-->
     <div class="wm-footer-player">
 
-        <div id="jquery_jplayer_2" class="jp-jplayer"></div>
-        <div id="jp_container_2" class="jp-audio" role="application" aria-label="media player">
-            <span class="jp-stop wm-bgcolor"><i class="flaticon-power"></i></span>
-            <div class="jp-type-playlist">
-                <div class="jp-playlist">
-                    <ul>
-                        <li>&nbsp;</li>
-                    </ul>
-                </div>
-                <div class="jp-gui jp-interface">
-                    <div id="current-track1" class="song-title">Catch & Release</div>
-                    <div class="jp-controls">
-                        <span class="jp-shuffle"><i class="flaticon-arrows-2"></i></span>
-                        <span class="wm-bgcolor-one jp-previous"><i class="flaticon-arrows-1"></i></span>
-                        <span class="jp-play"><i class="fa fa-pause"></i> <i class="fa fa-play"></i></span>
-                        <span class="wm-bgcolor-one jp-next"><i class="flaticon-arrows-1"></i></span>
-                        <span class="jp-repeat"><i class="flaticon-arrows-3"></i></span>
-                    </div>
-                    <div class="wm-player-wrap">
-                        <div class="jp-progress">
-                            <div class="jp-seek-bar">
-                                <div class="jp-play-bar"></div>
-                            </div>
-                        </div>
-                        <div class="jp-volume-controls">
-                            <span class="jp-mute"><i class="fa fa-volume-up"></i> <i class="fa fa-volume-off"></i></span>
-                            <div class="jp-volume-bar">
-                                <div class="jp-volume-bar-value"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <a href="#" class="wm-playlist-btn"><i class="flaticon-music-1"></i></a>
-                </div>
-            </div>
-        </div>
+{{--        <div id="jquery_jplayer_2" class="jp-jplayer"></div>--}}
+{{--        <div id="jp_container_2" class="jp-audio" role="application" aria-label="media player">--}}
+{{--            <span class="jp-stop wm-bgcolor"><i class="flaticon-power"></i></span>--}}
+{{--            <div class="jp-type-playlist">--}}
+{{--                <div class="jp-playlist">--}}
+{{--                    <ul>--}}
+{{--                        <li>&nbsp;</li>--}}
+{{--                    </ul>--}}
+{{--                </div>--}}
+{{--                <div class="jp-gui jp-interface">--}}
+{{--                    <div id="current-track1" class="song-title">Catch & Release</div>--}}
+{{--                    <div class="jp-controls">--}}
+{{--                        <span class="jp-shuffle"><i class="flaticon-arrows-2"></i></span>--}}
+{{--                        <span class="wm-bgcolor-one jp-previous"><i class="flaticon-arrows-1"></i></span>--}}
+{{--                        <span class="jp-play"><i class="fa fa-pause"></i> <i class="fa fa-play"></i></span>--}}
+{{--                        <span class="wm-bgcolor-one jp-next"><i class="flaticon-arrows-1"></i></span>--}}
+{{--                        <span class="jp-repeat"><i class="flaticon-arrows-3"></i></span>--}}
+{{--                    </div>--}}
+{{--                    <div class="wm-player-wrap">--}}
+{{--                        <div class="jp-progress">--}}
+{{--                            <div class="jp-seek-bar">--}}
+{{--                                <div class="jp-play-bar"></div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="jp-volume-controls">--}}
+{{--                            <span class="jp-mute"><i class="fa fa-volume-up"></i> <i class="fa fa-volume-off"></i></span>--}}
+{{--                            <div class="jp-volume-bar">--}}
+{{--                                <div class="jp-volume-bar-value"></div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <a href="#" class="wm-playlist-btn"><i class="flaticon-music-1"></i></a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
     </div>
     <!--// Player \\-->

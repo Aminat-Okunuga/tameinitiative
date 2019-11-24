@@ -39,189 +39,6 @@
 
     <div class="wm-main-content">
 
-        <!--// Main Section \\-->
-        <div class="wm-main-section wm-recent-releases-full">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="wm-simple-facny-title"><h2>Recent Releases</h2></div>
-                        <div class="wm-album wm-recent-releases-album">
-                            <ul class="row">
-                                <li class="col-md-4">
-                                    <figure><a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/album-recent-1.jpg" alt=""></a>
-                                        <figcaption>
-                                            <div class="wm-album-caption">
-                                                <h2><a href="album-single-post.html">Acoustic, Music, Soul</a></h2>
-                                                <ul>
-                                                    <li><span>Available on:</span></li>
-                                                    <li><a href="https://www.amazon.com/" class="flaticon-icon-2406"></a></li>
-                                                    <li><a href="http://www.apple.com/" class="flaticon-technology-2"></a></li>
-                                                    <li><a href="https://soundcloud.com/" class="flaticon-shape"></a></li>
-                                                </ul>
-                                                <div class="clearfix"></div>
-                                                <a href="album-single-post.html" class="wm-album-linkbtn wm-color"><i class="flaticon-tool"></i></a>
-                                                <a href="album-single-post.html" class="wm-album-linkbtn wm-color"><i class="flaticon-link"></i></a>
-                                            </div>
-                                        </figcaption>
-                                    </figure>
-                                    <div class="wm-recent-releases-text">
-                                        <time datetime="2008-02-14 20:00">Date: 26/01/2016</time>
-                                        <h2><a href="album-single-post.html">Album: You Know Who You Are</a></h2>
-                                    </div>
-                                </li>
-                                <li class="col-md-4">
-                                    <figure><a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/album-recent-2.jpg" alt=""></a>
-                                        <figcaption>
-                                            <div class="wm-album-caption">
-                                                <h2><a href="album-single-post.html">Acoustic, Music, Soul</a></h2>
-                                                <ul>
-                                                    <li><span>Available on:</span></li>
-                                                    <li><a href="https://www.amazon.com/" class="flaticon-icon-2406"></a></li>
-                                                    <li><a href="http://www.apple.com/" class="flaticon-technology-2"></a></li>
-                                                    <li><a href="https://soundcloud.com/" class="flaticon-shape"></a></li>
-                                                </ul>
-                                                <div class="clearfix"></div>
-                                                <a href="album-single-post.html" class="wm-album-linkbtn wm-color"><i class="flaticon-tool"></i></a>
-                                                <a href="album-single-post.html" class="wm-album-linkbtn wm-color"><i class="flaticon-link"></i></a>
-                                            </div>
-                                        </figcaption>
-                                    </figure>
-                                    <div class="wm-recent-releases-text">
-                                        <time datetime="2008-02-14 20:00">Date: 12/02/2016</time>
-                                        <h2><a href="album-single-post.html">Album: Long Way Home</a></h2>
-                                    </div>
-                                </li>
-                                <li class="col-md-4">
-                                    <figure><a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/album-recent-3.jpg" alt=""></a>
-                                        <figcaption>
-                                            <div class="wm-album-caption">
-                                                <h2><a href="album-single-post.html">Acoustic, Music, Soul</a></h2>
-                                                <ul>
-                                                    <li><span>Available on:</span></li>
-                                                    <li><a href="https://www.amazon.com/" class="flaticon-icon-2406"></a></li>
-                                                    <li><a href="http://www.apple.com/" class="flaticon-technology-2"></a></li>
-                                                    <li><a href="https://soundcloud.com/" class="flaticon-shape"></a></li>
-                                                </ul>
-                                                <div class="clearfix"></div>
-                                                <a href="album-single-post.html" class="wm-album-linkbtn wm-color"><i class="flaticon-tool"></i></a>
-                                                <a href="album-single-post.html" class="wm-album-linkbtn wm-color"><i class="flaticon-link"></i></a>
-                                            </div>
-                                        </figcaption>
-                                    </figure>
-                                    <div class="wm-recent-releases-text">
-                                        <time datetime="2008-02-14 20:00">Date: 16/03/2016</time>
-                                        <h2><a href="album-single-post.html">Album: You're Doomed. Be Nice.</a></h2>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="wm-seeall-btn"><a href="album-list.html" class="wm-bgcolor">See All</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--// Main Section \\-->
-
-        <!--// Main Section \\-->
-        <div class="wm-main-section wm-tour-schedule-full">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="wm-simple-facny-title wm-in-light"><h2>Tour Schedule</h2></div>
-                        <div class="wm-tour-schedule">
-                            <ul class="row">
-                                <li class="col-md-3">
-                                    <div class="wm-tour-schedule-wrap">
-                                        <span class="wm-schedule-date wm-bordercolor">25</span>
-                                        <div class="clearfix"></div>
-                                        <small>March, 2016</small>
-                                        <div class="wm-schedule-text">
-                                            <span>Saint Paul, MN</span>
-                                            <p>Xcel Energy Center</p>
-                                        </div>
-                                        <div class="clearfix"></div>
-                                        <a href="event-single.html" class="wm-ticket-btn"></a>
-                                    </div>
-                                </li>
-                                <li class="col-md-3">
-                                    <div class="wm-tour-schedule-wrap">
-                                        <span class="wm-schedule-date wm-bordercolor">12</span>
-                                        <div class="clearfix"></div>
-                                        <small>April, 2016</small>
-                                        <div class="wm-schedule-text">
-                                            <span>Phoenix, AZ</span>
-                                            <p>Talking Stick Arena</p>
-                                        </div>
-                                        <div class="clearfix"></div>
-                                        <a href="event-single.html" class="wm-ticket-btn"></a>
-                                    </div>
-                                </li>
-                                <li class="col-md-3">
-                                    <div class="wm-tour-schedule-wrap">
-                                        <span class="wm-schedule-date wm-bordercolor">24</span>
-                                        <div class="clearfix"></div>
-                                        <small>April, 2016</small>
-                                        <div class="wm-schedule-text">
-                                            <span>Auburn Hills, MI</span>
-                                            <p>Palace of Auburn Hills</p>
-                                        </div>
-                                        <div class="clearfix"></div>
-                                        <a href="event-single.html" class="wm-ticket-btn"></a>
-                                    </div>
-                                </li>
-                                <li class="col-md-3">
-                                    <div class="wm-tour-schedule-wrap">
-                                        <span class="wm-schedule-date wm-bordercolor">28</span>
-                                        <div class="clearfix"></div>
-                                        <small>May, 2016</small>
-                                        <div class="wm-schedule-text">
-                                            <span>Philadelphia, PA</span>
-                                            <p>Wells Fargo Center</p>
-                                        </div>
-                                        <div class="clearfix"></div>
-                                        <a href="event-single.html" class="wm-ticket-btn"></a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--// Main Section \\-->
-
-        <!--// Main Section \\-->
-        <div class="wm-main-section wm-personal-gallery-full">
-            <div class="container">
-                <div class="row">
-
-                    <aside class="col-md-8 widget widget_slider">
-                        <div class="wm-simple-section-heading"><h2>Our Gallery</h2></div>
-                        <div class="widget_slider_wrap">
-                            <div class="widget_slide_layer"><img src="{{asset("assets")}}/extra-images/gallery-section-slider-1.jpg" alt=""></div>
-                            <div class="widget_slide_layer"><img src="{{asset("assets")}}/extra-images/gallery-section-slider-2.jpg" alt=""></div>
-                        </div>
-                    </aside>
-
-                    <div class="col-md-4">
-                        <div class="wm-simple-section-heading"><h2>Cast / Personnel</h2></div>
-                        <div class="wm-casting-list">
-                            <ul>
-                                <li>Jenny Power – <a href="album-single-post.html">vocals, guitar</a></li>
-                                <li>Howard J. Valdez – <a href="album-single-post.html">only vocals</a></li>
-                                <li>Peter Wilkinson – <a href="album-single-post.html">backing vocals, bass</a></li>
-                                <li>Liam "Skin" Tyson – <a href="album-single-post.html">guitar</a></li>
-                                <li>Keith O'Neill – <a href="album-single-post.html">drums</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-        <!--// Main Section \\-->
-
-        <!--// Main Section \\-->
         <div class="wm-main-section wm-event-list-full">
             <div class="container">
                 <div class="row">
@@ -288,75 +105,321 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="wm-checkall-btn"><a href="event-list.html">Check All Events</a></div>
+                        <div class="wm-checkall-btn"><a href="/inner/events">Check All Events</a></div>
                     </div>
                 </div>
             </div>
         </div>
-        <!--// Main Section \\-->
+
+{{--        <div class="wm-main-section wm-recent-releases-full">--}}
+{{--            <div class="container">--}}
+{{--                <div class="row">--}}
+{{--                    <div class="col-md-12">--}}
+{{--                        <div class="wm-simple-facny-title"><h2>Recent Releases</h2></div>--}}
+{{--                        <div class="wm-album wm-recent-releases-album">--}}
+{{--                            <ul class="row">--}}
+{{--                                <li class="col-md-4">--}}
+{{--                                    <figure><a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/album-recent-1.jpg" alt=""></a>--}}
+{{--                                        <figcaption>--}}
+{{--                                            <div class="wm-album-caption">--}}
+{{--                                                <h2><a href="album-single-post.html">Acoustic, Music, Soul</a></h2>--}}
+{{--                                                <ul>--}}
+{{--                                                    <li><span>Available on:</span></li>--}}
+{{--                                                    <li><a href="https://www.amazon.com/" class="flaticon-icon-2406"></a></li>--}}
+{{--                                                    <li><a href="http://www.apple.com/" class="flaticon-technology-2"></a></li>--}}
+{{--                                                    <li><a href="https://soundcloud.com/" class="flaticon-shape"></a></li>--}}
+{{--                                                </ul>--}}
+{{--                                                <div class="clearfix"></div>--}}
+{{--                                                <a href="album-single-post.html" class="wm-album-linkbtn wm-color"><i class="flaticon-tool"></i></a>--}}
+{{--                                                <a href="album-single-post.html" class="wm-album-linkbtn wm-color"><i class="flaticon-link"></i></a>--}}
+{{--                                            </div>--}}
+{{--                                        </figcaption>--}}
+{{--                                    </figure>--}}
+{{--                                    <div class="wm-recent-releases-text">--}}
+{{--                                        <time datetime="2008-02-14 20:00">Date: 26/01/2016</time>--}}
+{{--                                        <h2><a href="album-single-post.html">Album: You Know Who You Are</a></h2>--}}
+{{--                                    </div>--}}
+{{--                                </li>--}}
+{{--                                <li class="col-md-4">--}}
+{{--                                    <figure><a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/album-recent-2.jpg" alt=""></a>--}}
+{{--                                        <figcaption>--}}
+{{--                                            <div class="wm-album-caption">--}}
+{{--                                                <h2><a href="album-single-post.html">Acoustic, Music, Soul</a></h2>--}}
+{{--                                                <ul>--}}
+{{--                                                    <li><span>Available on:</span></li>--}}
+{{--                                                    <li><a href="https://www.amazon.com/" class="flaticon-icon-2406"></a></li>--}}
+{{--                                                    <li><a href="http://www.apple.com/" class="flaticon-technology-2"></a></li>--}}
+{{--                                                    <li><a href="https://soundcloud.com/" class="flaticon-shape"></a></li>--}}
+{{--                                                </ul>--}}
+{{--                                                <div class="clearfix"></div>--}}
+{{--                                                <a href="album-single-post.html" class="wm-album-linkbtn wm-color"><i class="flaticon-tool"></i></a>--}}
+{{--                                                <a href="album-single-post.html" class="wm-album-linkbtn wm-color"><i class="flaticon-link"></i></a>--}}
+{{--                                            </div>--}}
+{{--                                        </figcaption>--}}
+{{--                                    </figure>--}}
+{{--                                    <div class="wm-recent-releases-text">--}}
+{{--                                        <time datetime="2008-02-14 20:00">Date: 12/02/2016</time>--}}
+{{--                                        <h2><a href="album-single-post.html">Album: Long Way Home</a></h2>--}}
+{{--                                    </div>--}}
+{{--                                </li>--}}
+{{--                                <li class="col-md-4">--}}
+{{--                                    <figure><a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/album-recent-3.jpg" alt=""></a>--}}
+{{--                                        <figcaption>--}}
+{{--                                            <div class="wm-album-caption">--}}
+{{--                                                <h2><a href="album-single-post.html">Acoustic, Music, Soul</a></h2>--}}
+{{--                                                <ul>--}}
+{{--                                                    <li><span>Available on:</span></li>--}}
+{{--                                                    <li><a href="https://www.amazon.com/" class="flaticon-icon-2406"></a></li>--}}
+{{--                                                    <li><a href="http://www.apple.com/" class="flaticon-technology-2"></a></li>--}}
+{{--                                                    <li><a href="https://soundcloud.com/" class="flaticon-shape"></a></li>--}}
+{{--                                                </ul>--}}
+{{--                                                <div class="clearfix"></div>--}}
+{{--                                                <a href="album-single-post.html" class="wm-album-linkbtn wm-color"><i class="flaticon-tool"></i></a>--}}
+{{--                                                <a href="album-single-post.html" class="wm-album-linkbtn wm-color"><i class="flaticon-link"></i></a>--}}
+{{--                                            </div>--}}
+{{--                                        </figcaption>--}}
+{{--                                    </figure>--}}
+{{--                                    <div class="wm-recent-releases-text">--}}
+{{--                                        <time datetime="2008-02-14 20:00">Date: 16/03/2016</time>--}}
+{{--                                        <h2><a href="album-single-post.html">Album: You're Doomed. Be Nice.</a></h2>--}}
+{{--                                    </div>--}}
+{{--                                </li>--}}
+{{--                            </ul>--}}
+{{--                        </div>--}}
+{{--                        <div class="wm-seeall-btn"><a href="album-list.html" class="wm-bgcolor">See All</a></div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <!--// Main Section \\-->
-        <div class="wm-main-section wm-album-grid-full">
+{{--        <div class="wm-main-section wm-tour-schedule-full">--}}
+{{--            <div class="container">--}}
+{{--                <div class="row">--}}
+{{--                    <div class="col-md-12">--}}
+{{--                        <div class="wm-simple-facny-title wm-in-light"><h2>Tour Schedule</h2></div>--}}
+{{--                        <div class="wm-tour-schedule">--}}
+{{--                            <ul class="row">--}}
+{{--                                <li class="col-md-3">--}}
+{{--                                    <div class="wm-tour-schedule-wrap">--}}
+{{--                                        <span class="wm-schedule-date wm-bordercolor">25</span>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                        <small>March, 2016</small>--}}
+{{--                                        <div class="wm-schedule-text">--}}
+{{--                                            <span>Saint Paul, MN</span>--}}
+{{--                                            <p>Xcel Energy Center</p>--}}
+{{--                                        </div>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                        <a href="event-single.html" class="wm-ticket-btn"></a>--}}
+{{--                                    </div>--}}
+{{--                                </li>--}}
+{{--                                <li class="col-md-3">--}}
+{{--                                    <div class="wm-tour-schedule-wrap">--}}
+{{--                                        <span class="wm-schedule-date wm-bordercolor">12</span>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                        <small>April, 2016</small>--}}
+{{--                                        <div class="wm-schedule-text">--}}
+{{--                                            <span>Phoenix, AZ</span>--}}
+{{--                                            <p>Talking Stick Arena</p>--}}
+{{--                                        </div>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                        <a href="event-single.html" class="wm-ticket-btn"></a>--}}
+{{--                                    </div>--}}
+{{--                                </li>--}}
+{{--                                <li class="col-md-3">--}}
+{{--                                    <div class="wm-tour-schedule-wrap">--}}
+{{--                                        <span class="wm-schedule-date wm-bordercolor">24</span>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                        <small>April, 2016</small>--}}
+{{--                                        <div class="wm-schedule-text">--}}
+{{--                                            <span>Auburn Hills, MI</span>--}}
+{{--                                            <p>Palace of Auburn Hills</p>--}}
+{{--                                        </div>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                        <a href="event-single.html" class="wm-ticket-btn"></a>--}}
+{{--                                    </div>--}}
+{{--                                </li>--}}
+{{--                                <li class="col-md-3">--}}
+{{--                                    <div class="wm-tour-schedule-wrap">--}}
+{{--                                        <span class="wm-schedule-date wm-bordercolor">28</span>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                        <small>May, 2016</small>--}}
+{{--                                        <div class="wm-schedule-text">--}}
+{{--                                            <span>Philadelphia, PA</span>--}}
+{{--                                            <p>Wells Fargo Center</p>--}}
+{{--                                        </div>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                        <a href="event-single.html" class="wm-ticket-btn"></a>--}}
+{{--                                    </div>--}}
+{{--                                </li>--}}
+{{--                            </ul>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+        <!--// Main Section \\-->
+        <div class="wm-main-section wm-imagegallery-full">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="wm-simple-facny-title"><h2>Latest Albums</h2></div>
-                        <div class="wm-latest-album">
-
-                            <div class="wm-latest-album-slide">
-                                <figure>
-                                    <a href="album-single-post.html" class="graythumb">
-                                        <img src="{{asset("assets")}}/extra-images/latest-album-1.jpg" alt="">
-                                    </a>
-                                    <figcaption>
-                                        <a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a>
-                                    </figcaption
-                                ></figure>
-                                <div class="wm-latest-album-text">
-                                    <h2><a href="album-single-post.html">Everything Will Be OK</a></h2>
-                                    <span>$23.99</span>
-                                    <div class="clearfix"></div>
-                                    <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>
-                                </div>
-                            </div>
-
-                            <div class="wm-latest-album-slide">
-                                <figure><a href="album-single-post.html" class="graythumb">
-                                        <img src="{{asset("assets")}}/extra-images/latest-album-2.jpg" alt="">
-                                    </a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>
-                                <div class="wm-latest-album-text">
-                                    <h2><a href="album-single-post.html">You Mean Nothing To Me</a></h2>
-                                    <span>$19.00</span>
-                                    <div class="clearfix"></div>
-                                    <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>
-                                </div>
-                            </div>
-
-                            <div class="wm-latest-album-slide">
-                                <figure><a href="album-single-post.html" class="graythumb">
-                                        <img src="{{asset("assets")}}/extra-images/latest-album-3.jpg" alt=""></a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>
-                                <div class="wm-latest-album-text">
-                                    <h2><a href="album-single-post.html">Heat The Dance Floor</a></h2>
-                                    <span>$15.00</span>
-                                    <div class="clearfix"></div>
-                                    <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>
-                                </div>
-                            </div>
-
-                            <div class="wm-latest-album-slide">
-                                <figure><a href="album-single-post.html" class="graythumb"><img src="{{asset("assets")}}/extra-images/latest-album-2.jpg" alt=""></a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>
-                                <div class="wm-latest-album-text">
-                                    <h2><a href="album-single-post.html">You Mean Nothing To Me</a></h2>
-                                    <span>$19.00</span>
-                                    <div class="clearfix"></div>
-                                    <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>
-                                </div>
-                            </div>
+                        <div class="wm-simple-facny-title wm-in-light"><h2>Our Image Gallery</h2></div>
+                        <ul class="wm-album-filter">
+                            <li><a href="#" data-filter="*" class="active">All</a></li>
+                            <li><a href="#" data-filter=".jquery">Festivals</a></li>
+                            <li><a data-filter=".php" href="#">Concerts</a></li>
+                            <li><a data-filter=".wordpress" href="#">Official Tour</a></li>
+                        </ul>
+                        <div class="wm-artist wm-artist-grid wm-albummasonry-list">
+                            <ul class="row">
+                                <li class="col-md-3 jquery">
+                                    <figure><a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-1.jpg" alt=""></a>
+                                        <figcaption><a href="album-single-post.html"><i class="flaticon-search"></i></a></figcaption>
+                                    </figure>
+                                    <div class="wm-artist-title">
+                                        <h2><a href="album-single-post.html">MetLife Stadium</a></h2>
+                                        <span>East Rutherford, NJ</span>
+                                    </div>
+                                </li>
+                                <li class="col-md-3 php">
+                                    <figure>
+                                        <a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-2.jpg" alt=""></a>
+                                        <figcaption><a href="album-single-post.html"><i class="flaticon-search"></i></a></figcaption>
+                                    </figure>
+                                    <div class="wm-artist-title">
+                                        <h2><a href="album-single-post.html">Lincoln Financial Field</a></h2>
+                                        <span>Philadelphia, PA</span>
+                                    </div>
+                                </li>
+                                <li class="col-md-3 wordpress">
+                                    <figure>
+                                        <a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-3.jpg" alt=""></a>
+                                        <figcaption><a href="album-single-post.html"><i class="flaticon-search"></i></a></figcaption>
+                                    </figure>
+                                    <div class="wm-artist-title">
+                                        <h2><a href="album-single-post.html">Rose Bowl Stadium</a></h2>
+                                        <span>Pasadena, CA</span>
+                                    </div>
+                                </li>
+                                <li class="col-md-3 jquery">
+                                    <figure>
+                                        <a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-4.jpg" alt=""></a>
+                                        <figcaption> <a href="album-single-post.html"><i class="flaticon-search"></i></a> </figcaption>
+                                    </figure>
+                                    <div class="wm-artist-title">
+                                        <h2><a href="album-single-post.html">AT&T Stadium</a></h2>
+                                        <span>Arlington, TX</span>
+                                    </div>
+                                </li>
+                                <li class="col-md-3 wordpress">
+                                    <figure><a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-5.jpg" alt=""></a>
+                                        <figcaption><a href="album-single-post.html"><i class="flaticon-search"></i></a></figcaption>
+                                    </figure>
+                                    <div class="wm-artist-title">
+                                        <h2><a href="album-single-post.html">Manchester Etihad Stadium</a></h2>
+                                        <span>UK - Manchester, GB</span>
+                                    </div>
+                                </li>
+                                <li class="col-md-3 php">
+                                    <figure>
+                                        <a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-6.jpg" alt=""></a>
+                                        <figcaption><a href="album-single-post.html"><i class="flaticon-search"></i></a></figcaption>
+                                    </figure>
+                                    <div class="wm-artist-title">
+                                        <h2><a href="album-single-post.html">Wembley Stadium</a></h2>
+                                        <span> London, GB</span>
+                                    </div>
+                                </li>
+                                <li class="col-md-3 jquery">
+                                    <figure>
+                                        <a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-7.jpg" alt=""></a>
+                                        <figcaption><a href="album-single-post.html"><i class="flaticon-search"></i></a></figcaption>
+                                    </figure>
+                                    <div class="wm-artist-title">
+                                        <h2><a href="album-single-post.html">Gillette Stadium</a></h2>
+                                        <span>Foxborough, MA</span>
+                                    </div>
+                                </li>
+                                <li class="col-md-3 php">
+                                    <figure>
+                                        <a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-8.jpg" alt=""></a>
+                                        <figcaption> <a href="album-single-post.html"><i class="flaticon-search"></i></a> </figcaption>
+                                    </figure>
+                                    <div class="wm-artist-title">
+                                        <h2><a href="album-single-post.html">Soldier Field</a></h2>
+                                        <span>Chicago, IL</span>
+                                    </div>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
+
+        <!--// Main Section \\-->
+{{--        <div class="wm-main-section wm-album-grid-full">--}}
+{{--            <div class="container">--}}
+{{--                <div class="row">--}}
+{{--                    <div class="col-md-12">--}}
+{{--                        <div class="wm-simple-facny-title"><h2>Latest Albums</h2></div>--}}
+{{--                        <div class="wm-latest-album">--}}
+
+{{--                            <div class="wm-latest-album-slide">--}}
+{{--                                <figure>--}}
+{{--                                    <a href="album-single-post.html" class="graythumb">--}}
+{{--                                        <img src="{{asset("assets")}}/extra-images/latest-album-1.jpg" alt="">--}}
+{{--                                    </a>--}}
+{{--                                    <figcaption>--}}
+{{--                                        <a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a>--}}
+{{--                                    </figcaption--}}
+{{--                                ></figure>--}}
+{{--                                <div class="wm-latest-album-text">--}}
+{{--                                    <h2><a href="album-single-post.html">Everything Will Be OK</a></h2>--}}
+{{--                                    <span>$23.99</span>--}}
+{{--                                    <div class="clearfix"></div>--}}
+{{--                                    <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+
+{{--                            <div class="wm-latest-album-slide">--}}
+{{--                                <figure><a href="album-single-post.html" class="graythumb">--}}
+{{--                                        <img src="{{asset("assets")}}/extra-images/latest-album-2.jpg" alt="">--}}
+{{--                                    </a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>--}}
+{{--                                <div class="wm-latest-album-text">--}}
+{{--                                    <h2><a href="album-single-post.html">You Mean Nothing To Me</a></h2>--}}
+{{--                                    <span>$19.00</span>--}}
+{{--                                    <div class="clearfix"></div>--}}
+{{--                                    <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+
+{{--                            <div class="wm-latest-album-slide">--}}
+{{--                                <figure><a href="album-single-post.html" class="graythumb">--}}
+{{--                                        <img src="{{asset("assets")}}/extra-images/latest-album-3.jpg" alt=""></a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>--}}
+{{--                                <div class="wm-latest-album-text">--}}
+{{--                                    <h2><a href="album-single-post.html">Heat The Dance Floor</a></h2>--}}
+{{--                                    <span>$15.00</span>--}}
+{{--                                    <div class="clearfix"></div>--}}
+{{--                                    <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+
+{{--                            <div class="wm-latest-album-slide">--}}
+{{--                                <figure><a href="album-single-post.html" class="graythumb"><img src="{{asset("assets")}}/extra-images/latest-album-2.jpg" alt=""></a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>--}}
+{{--                                <div class="wm-latest-album-text">--}}
+{{--                                    <h2><a href="album-single-post.html">You Mean Nothing To Me</a></h2>--}}
+{{--                                    <span>$19.00</span>--}}
+{{--                                    <div class="clearfix"></div>--}}
+{{--                                    <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <div class="wm-main-section wm-band-members-full">
             <div class="container">

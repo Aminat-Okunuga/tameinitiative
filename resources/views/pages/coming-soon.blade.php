@@ -32,7 +32,7 @@
                             <div class="wm-comingsoon-copyright">
                                 <p>
                                     © 2019 TAMEInitiative, All Right Reserved - by
-                                    <a href="http://devchuksemeka.com" target="_blank">Sleek Artisan</a>
+                                    <a href="http://devchuksemeka.com" target="_blank">DevChuksEmeka</a>
                                 </p>
                             </div>
                         </div>

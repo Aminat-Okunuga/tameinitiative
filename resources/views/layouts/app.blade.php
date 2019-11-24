@@ -32,15 +32,15 @@
 </head>
 <body>
     <div class="wm-main-wrapper">
-        <div class="muscibeat-loading-section">
-            <div class="line-scale-pulse-out">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-        </div>
+{{--        <div class="muscibeat-loading-section">--}}
+{{--            <div class="line-scale-pulse-out">--}}
+{{--                <div></div>--}}
+{{--                <div></div>--}}
+{{--                <div></div>--}}
+{{--                <div></div>--}}
+{{--                <div></div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
         @include('includes.nav-header')
         @yield('content')
         @include('includes.footer')

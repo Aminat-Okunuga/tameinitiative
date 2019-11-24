@@ -7,49 +7,14 @@
                 <div class="col-md-7">
                     <ul class="wm-strip-options">
 {{--                        <li><a href="#"><i class="flaticon-photo"></i> Albums</a></li>--}}
-                        <li><a href="#"><i class="flaticon-multimedia"></i> Artists</a></li>
+                        <li><a href="#"><i class="flaticon-multimedia"></i>Featured Talents</a></li>
 {{--                        <li><a href="#"><i class="flaticon-silhouette"></i> Releases</a></li>--}}
-                        <li><a href="#"><i class="flaticon-sound"></i> Music Festivals</a></li>
-{{--                        <li><a href="#"><i class="flaticon-video"></i> Music Videos</a></li>--}}
+{{--                        <li><a href="#"><i class="flaticon-sound"></i> Music Festivals</a></li>--}}
+                        <li><a href="#"><i class="flaticon-video"></i> Music Event Tours</a></li>
                     </ul>
                 </div>
                 <div class="col-md-5">
                     <div class="wm-right-section">
-                        <a class="wm-text-cart" href="#"><i class="flaticon-tool"></i> <span>0 items</span></a>
-                        <div class="wm-cart-box">
-                            <h2>3 items in the cart</h2>
-                            <ul>
-                                <li id="wmremove1">
-                                    <figure><a href="#"><img src="extra-images/cartbox-1.jpg" alt=""></a></figure>
-                                    <div class="wm-cartbox-text">
-                                        <h6><a href="#">1 x Golden Trumpet</a></h6>
-                                        <div class="wm-rating"><span class="wm-rating-box" style="width:45%"></span></div>
-                                        <small>$32.00</small>
-                                        <a href="#" class="wm-close-cart" id="wmbtnremove1"><i class="fa fa-times"></i></a>
-                                    </div>
-                                </li>
-                                <li id="wmremove2">
-                                    <figure><a href="#"><img src="extra-images/cartbox-2.jpg" alt=""></a></figure>
-                                    <div class="wm-cartbox-text">
-                                        <h6><a href="#">2 x Electric Guitar</a></h6>
-                                        <div class="wm-rating"><span class="wm-rating-box" style="width:45%"></span></div>
-                                        <small>$43.99</small>
-                                        <a href="#" class="wm-close-cart" id="wmbtnremove2"><i class="fa fa-times"></i></a>
-                                    </div>
-                                </li>
-                                <li id="wmremove3">
-                                    <figure><a href="#"><img src="extra-images/cartbox-3.jpg" alt=""></a></figure>
-                                    <div class="wm-cartbox-text">
-                                        <h6><a href="#">1 x Bass Amps</a></h6>
-                                        <div class="wm-rating"><span class="wm-rating-box" style="width:45%"></span></div>
-                                        <small>$89.99</small>
-                                        <a href="#" class="wm-close-cart" id="wmbtnremove3"><i class="fa fa-times"></i></a>
-                                    </div>
-                                </li>
-                            </ul>
-                            <p>Subtotal <span>$165.98</span></p>
-                            <div class="wm-cart-link"><a href="#" class="wm-cartbox-btn"><i class="flaticon-tool"></i> checkout</a></div>
-                        </div>
                         <form class="wm-search">
                             <i class="flaticon-search"></i>
                             <input type="text" value="Search..." onblur="if(this.value == '') { this.value ='Search...'; }" onfocus="if(this.value =='Search...') { this.value = ''; }">
@@ -88,7 +53,7 @@
 {{--                                        <li><a href="index-four.html">MusciBeat Home V4</a></li>--}}
 {{--                                    </ul>--}}
                                 </li>
-                                <li ><a href="/#event-list.html">Events</a>
+                                <li ><a href="/events">Events</a>
 {{--                                    <ul class="wm-dropdown-menu">--}}
 {{--                                        <li><a href="event-grid.html">Event Grid</a></li>--}}
 {{--                                        <li><a href="event-list.html">Event List</a></li>--}}
@@ -96,10 +61,11 @@
 {{--                                        <li><a href="event-single.html">Event Single</a></li>--}}
 {{--                                    </ul>--}}
                                 </li>
-                                <li><a href="/#artist-list.html">Artists</a> </li>
-                                <li><a href="/#our-services.html">Services</a> </li>
-                                <li><a href="/#our-gallery.html">Gallery</a> </li>
-                                <li><a href="/#about-us.html">About Us</a> </li>
+                                <li><a href="/talents">Talents</a> </li>
+                                <li><a href="/services">Services</a> </li>
+                                <li><a href="/galleries">Gallery</a> </li>
+                                <li><a href="/about-us">About Us</a> </li>
+                                <li><a href="/contacts">Contact</a></li>
 {{--                                    <ul class="wm-dropdown-menu">--}}
 {{--                                        <li><a href="album-grid.html">Albums Grid</a></li>--}}
 {{--                                        <li><a href="album-grid-no-filterable.html">Albums Grid W/out/FilterAble</a></li>--}}
@@ -164,12 +130,7 @@
 {{--                                        <li><a href="shop-single.html">Shop Detail</a></li>--}}
 {{--                                    </ul>--}}
 {{--                                </li>--}}
-                                <li><a href="/#contact-us-two.html">Contact</a>
-{{--                                    <ul class="wm-dropdown-menu">--}}
-{{--                                        <li><a href="contact-us.html">Contact Us View1</a></li>--}}
-{{--                                        <li><a href="contact-us-two.html">Contact Us View2</a></li>--}}
-{{--                                    </ul>--}}
-                                </li>
+
                             </ul>
                         </div>
                     </nav>
