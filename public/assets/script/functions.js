@@ -909,8 +909,8 @@ jQuery(document).ready(function($) {
     // Countdown Function
     //***************************
     jQuery(function() {
-        var austDay = new Date();
-        austDay = new Date(austDay.getFullYear() + 1, 1 - 1, 26);
+        // var austDay = new Date();
+        var austDay = new Date(2019, 12 - 1, 1);
         jQuery('#wm-countdown,#widget-Countdown-two,#widget-Countdown-one').countdown({
             until: austDay
         });

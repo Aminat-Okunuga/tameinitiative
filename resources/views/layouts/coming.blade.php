@@ -65,9 +65,8 @@
     <script type="text/javascript" src="{{asset('assets')}}/script/isotope.min.js"></script>
     <script type="text/javascript" src="{{asset('assets')}}/script/functions.js"></script>
     <script type="text/javascript" src="{{asset('assets')}}/script/jplayer.functions.js"></script>
-
-    <script src="js/app.js"></script>
-    @yield('requiredJs')
+    <script src="{{ asset('js/app.js') }}"></script>
+    @yield('requiredjs')
 </body>
 
 </html>

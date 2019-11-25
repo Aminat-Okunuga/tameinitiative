@@ -43,6 +43,10 @@ Route::prefix('/about-us')->namespace('AboutUs')->group(function () {
     Route::get('/', 'AboutUsController@index');
 });
 
+Route::prefix('/notify-me')->group(function () {
+    Route::post('/', 'ComingSoonNotificationController@notifyMe');
+});
+
 
 Route::get('/', function () {
     return view('pages.coming-soon');
