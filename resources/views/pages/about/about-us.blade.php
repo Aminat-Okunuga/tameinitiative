@@ -12,7 +12,7 @@
                     </div>
                     <div class="clearfix"></div>
                     <ul class="wm-breadcrumb">
-                        <li><a href="index-2.html">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li>About Us</li>
                     </ul>
                 </div>
@@ -29,47 +29,47 @@
                         <div class="wm-simple-facny-title wm-in-light"><h2>Our Team</h2></div>
                         <div class="wm-artist-grid wm-ourband-slider">
                             <div class="wm-artist-slider-layer">
-                                <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-1.jpg" alt=""></a>
-                                    <figcaption><a href="artist-single.html"><i class="flaticon-link"></i></a></figcaption>
+                                <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/artist-grid-1.jpg" alt=""></a>
+                                    <figcaption><a href="/talents/single"><i class="flaticon-link"></i></a></figcaption>
                                 </figure>
                                 <div class="wm-artist-title">
-                                    <h2><a href="artist-single.html">Jenny James Young</a></h2>
+                                    <h2><a href="/talents/single">Jenny James Young</a></h2>
                                     <span>Rhythm guitarist</span>
                                 </div>
                             </div>
                             <div class="wm-artist-slider-layer">
-                                <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-2.jpg" alt=""></a>
-                                    <figcaption><a href="artist-single.html"><i class="flaticon-link"></i></a></figcaption>
+                                <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/artist-grid-2.jpg" alt=""></a>
+                                    <figcaption><a href="/talents/single"><i class="flaticon-link"></i></a></figcaption>
                                 </figure>
                                 <div class="wm-artist-title">
-                                    <h2><a href="artist-single.html">Angus Jeremy Young</a></h2>
+                                    <h2><a href="/talents/single">Angus Jeremy Young</a></h2>
                                     <span> Backing vocalist</span>
                                 </div>
                             </div>
                             <div class="wm-artist-slider-layer">
-                                <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-3.jpg" alt=""></a>
-                                    <figcaption><a href="artist-single.html"><i class="flaticon-link"></i></a></figcaption>
+                                <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/artist-grid-3.jpg" alt=""></a>
+                                    <figcaption><a href="/talents/single"><i class="flaticon-link"></i></a></figcaption>
                                 </figure>
                                 <div class="wm-artist-title">
-                                    <h2><a href="artist-single.html">Briennne Carla Johnson</a></h2>
+                                    <h2><a href="/talents/single">Briennne Carla Johnson</a></h2>
                                     <span>Lead singer</span>
                                 </div>
                             </div>
                             <div class="wm-artist-slider-layer">
-                                <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-4.jpg" alt=""></a>
-                                    <figcaption><a href="artist-single.html"><i class="flaticon-link"></i></a></figcaption>
+                                <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/artist-grid-4.jpg" alt=""></a>
+                                    <figcaption><a href="/talents/single"><i class="flaticon-link"></i></a></figcaption>
                                 </figure>
                                 <div class="wm-artist-title">
-                                    <h2><a href="artist-single.html">Cliffany Jana Williams</a></h2>
+                                    <h2><a href="/talents/single">Cliffany Jana Williams</a></h2>
                                     <span>Bassist</span>
                                 </div>
                             </div>
                             <div class="wm-artist-slider-layer">
-                                <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-4.jpg" alt=""></a>
-                                    <figcaption><a href="artist-single.html"><i class="flaticon-link"></i></a></figcaption>
+                                <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/artist-grid-4.jpg" alt=""></a>
+                                    <figcaption><a href="/talents/single"><i class="flaticon-link"></i></a></figcaption>
                                 </figure>
                                 <div class="wm-artist-title">
-                                    <h2><a href="artist-single.html">Jenny James Young</a></h2>
+                                    <h2><a href="/talents/single">Jenny James Young</a></h2>
                                     <span>Rhythm guitarist</span>
                                 </div>
                             </div>
@@ -97,11 +97,11 @@
                         <div class="wm-simple-section-heading"><h2>Cast / Personnel</h2></div>
                         <div class="wm-casting-list">
                             <ul>
-                                <li>Jenny Power – <a href="artist-single.html">vocals, guitar</a></li>
-                                <li>Howard J. Valdez – <a href="artist-single.html">only vocals</a></li>
-                                <li>Peter Wilkinson – <a href="artist-single.html">backing vocals, bass</a></li>
-                                <li>Liam "Skin" Tyson – <a href="artist-single.html">guitar</a></li>
-                                <li>Keith O'Neill – <a href="artist-single.html">drums</a></li>
+                                <li>Jenny Power – <a href="/talents/single">vocals, guitar</a></li>
+                                <li>Howard J. Valdez – <a href="/talents/single">only vocals</a></li>
+                                <li>Peter Wilkinson – <a href="/talents/single">backing vocals, bass</a></li>
+                                <li>Liam "Skin" Tyson – <a href="/talents/single">guitar</a></li>
+                                <li>Keith O'Neill – <a href="/talents/single">drums</a></li>
                             </ul>
                         </div>
                     </div>
@@ -232,57 +232,57 @@
                                     <div class="wm-event-performer">
                                         <ul>
                                             <li>
-                                                <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/evetn-performer-1.jpg" alt=""></a></figure>
+                                                <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/evetn-performer-1.jpg" alt=""></a></figure>
                                                 <div class="wm-performer-text">
-                                                    <h3><a href="artist-single.html">Magdalena McNeil</a></h3>
+                                                    <h3><a href="/talents/single">Magdalena McNeil</a></h3>
                                                     <span class="wm-color">Vocals, Bass, Piano, Guitar</span>
                                                     <p>A life-long, second-generation Beatles fan, Steve taught himself guitar at 10 listening to them records and by 13 was fronting a Top 40 cover band in his native Philadelphia.</p>
                                                 </div>
                                             </li>
                                             <li>
-                                                <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/evetn-performer-2.jpg" alt=""></a></figure>
+                                                <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/evetn-performer-2.jpg" alt=""></a></figure>
                                                 <div class="wm-performer-text">
-                                                    <h3><a href="artist-single.html">Joey Curatolo</a></h3>
+                                                    <h3><a href="/talents/single">Joey Curatolo</a></h3>
                                                     <span class="wm-color">Bass, Piano, Guitar</span>
                                                     <p>Joey grew up in a Brooklyn household where classical music and opera formed the soundtrack. A natural musician, he was infatuated with them.</p>
                                                 </div>
                                             </li>
                                             <li>
-                                                <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/evetn-performer-3.jpg" alt=""></a></figure>
+                                                <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/evetn-performer-3.jpg" alt=""></a></figure>
                                                 <div class="wm-performer-text">
-                                                    <h3><a href="artist-single.html">Aaron Chiazza</a></h3>
+                                                    <h3><a href="/talents/single">Aaron Chiazza</a></h3>
                                                     <span class="wm-color">Rhythm Guitar, Piano, Harmonica</span>
                                                     <p>He performed in local Chicago Beatle bands and learned the harmonica to master some of his early favorites.</p>
                                                 </div>
                                             </li>
                                             <li>
-                                                <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/evetn-performer-1.jpg" alt=""></a></figure>
+                                                <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/evetn-performer-1.jpg" alt=""></a></figure>
                                                 <div class="wm-performer-text">
-                                                    <h3><a href="artist-single.html">Magdalena McNeil</a></h3>
+                                                    <h3><a href="/talents/single">Magdalena McNeil</a></h3>
                                                     <span class="wm-color">Vocals, Bass, Piano, Guitar</span>
                                                     <p>A life-long, second-generation Beatles fan, Steve taught himself guitar at 10 listening to them records and by 13 was fronting a Top 40 cover band in his native Philadelphia.</p>
                                                 </div>
                                             </li>
                                             <li>
-                                                <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/evetn-performer-2.jpg" alt=""></a></figure>
+                                                <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/evetn-performer-2.jpg" alt=""></a></figure>
                                                 <div class="wm-performer-text">
-                                                    <h3><a href="artist-single.html">Joey Curatolo</a></h3>
+                                                    <h3><a href="/talents/single">Joey Curatolo</a></h3>
                                                     <span class="wm-color">Bass, Piano, Guitar</span>
                                                     <p>Joey grew up in a Brooklyn household where classical music and opera formed the soundtrack. A natural musician, he was infatuated with them.</p>
                                                 </div>
                                             </li>
                                             <li>
-                                                <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/evetn-performer-1.jpg" alt=""></a></figure>
+                                                <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/evetn-performer-1.jpg" alt=""></a></figure>
                                                 <div class="wm-performer-text">
-                                                    <h3><a href="artist-single.html">Magdalena McNeil</a></h3>
+                                                    <h3><a href="/talents/single">Magdalena McNeil</a></h3>
                                                     <span class="wm-color">Vocals, Bass, Piano, Guitar</span>
                                                     <p>A life-long, second-generation Beatles fan, Steve taught himself guitar at 10 listening to them records and by 13 was fronting a Top 40 cover band in his native Philadelphia.</p>
                                                 </div>
                                             </li>
                                             <li>
-                                                <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/evetn-performer-2.jpg" alt=""></a></figure>
+                                                <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/evetn-performer-2.jpg" alt=""></a></figure>
                                                 <div class="wm-performer-text">
-                                                    <h3><a href="artist-single.html">Joey Curatolo</a></h3>
+                                                    <h3><a href="/talents/single">Joey Curatolo</a></h3>
                                                     <span class="wm-color">Bass, Piano, Guitar</span>
                                                     <p>Joey grew up in a Brooklyn household where classical music and opera formed the soundtrack. A natural musician, he was infatuated with them.</p>
                                                 </div>
@@ -347,12 +347,12 @@
                                 <span class="wm-color">-Jimmy Dean</span>
                             </div>
                             <ul>
-                                <li><a href="blog-single.html"><i class="flaticon-arrows"></i> Information architecture</a></li>
-                                <li><a href="blog-single.html"><i class="flaticon-arrows"></i> Website design</a></li>
-                                <li><a href="blog-single.html"><i class="flaticon-arrows"></i> Blog planning & writing</a></li>
-                                <li><a href="blog-single.html"><i class="flaticon-arrows"></i> iOS application design</a></li>
-                                <li><a href="blog-single.html"><i class="flaticon-arrows"></i> Social media management</a></li>
-                                <li><a href="blog-single.html"><i class="flaticon-arrows"></i> Interactive prototyping</a></li>
+                                <li><a href="#"><i class="flaticon-arrows"></i> Information architecture</a></li>
+                                <li><a href="#"><i class="flaticon-arrows"></i> Website design</a></li>
+                                <li><a href="#"><i class="flaticon-arrows"></i> Blog planning & writing</a></li>
+                                <li><a href="#"><i class="flaticon-arrows"></i> iOS application design</a></li>
+                                <li><a href="#"><i class="flaticon-arrows"></i> Social media management</a></li>
+                                <li><a href="#"><i class="flaticon-arrows"></i> Interactive prototyping</a></li>
                             </ul>
                         </div>
                     </div>

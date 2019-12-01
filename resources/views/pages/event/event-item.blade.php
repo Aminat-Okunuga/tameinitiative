@@ -265,21 +265,21 @@
                                         <li>
                                             <figure> <img src="{{asset("assets")}}/extra-images/event-gallery-4.jpg" alt="">
                                                 <figcaption>
-                                                    <h3><a href="event-single.html">Preparing The Show</a></h3>
+                                                    <h3><a href="/events/single">Preparing The Show</a></h3>
                                                 </figcaption>
                                             </figure>
                                         </li>
                                         <li>
                                             <figure> <img src="{{asset("assets")}}/extra-images/event-gallery-5.jpg" alt="">
                                                 <figcaption>
-                                                    <h3><a href="event-single.html">Preparing The Show</a></h3>
+                                                    <h3><a href="/events/single">Preparing The Show</a></h3>
                                                 </figcaption>
                                             </figure>
                                         </li>
                                         <li>
                                             <figure> <img src="{{asset("assets")}}/extra-images/event-gallery-6.jpg" alt="">
                                                 <figcaption>
-                                                    <h3><a href="event-single.html">Preparing The Show</a></h3>
+                                                    <h3><a href="/events/single">Preparing The Show</a></h3>
                                                 </figcaption>
                                             </figure>
                                         </li>
@@ -290,42 +290,42 @@
                                         <li>
                                             <figure> <img src="{{asset("assets")}}/extra-images/event-gallery-1.jpg" alt="">
                                                 <figcaption>
-                                                    <h3><a href="event-single.html">Preparing The Show</a></h3>
+                                                    <h3><a href="/events/single">Preparing The Show</a></h3>
                                                 </figcaption>
                                             </figure>
                                         </li>
                                         <li>
                                             <figure> <img src="{{asset("assets")}}/extra-images/event-gallery-2.jpg" alt="">
                                                 <figcaption>
-                                                    <h3><a href="event-single.html">Preparing The Show</a></h3>
+                                                    <h3><a href="/events/single">Preparing The Show</a></h3>
                                                 </figcaption>
                                             </figure>
                                         </li>
                                         <li>
                                             <figure> <img src="{{asset("assets")}}/extra-images/event-gallery-3.jpg" alt="">
                                                 <figcaption>
-                                                    <h3><a href="event-single.html">Preparing The Show</a></h3>
+                                                    <h3><a href="/events/single">Preparing The Show</a></h3>
                                                 </figcaption>
                                             </figure>
                                         </li>
                                         <li>
                                             <figure> <img src="{{asset("assets")}}/extra-images/event-gallery-4.jpg" alt="">
                                                 <figcaption>
-                                                    <h3><a href="event-single.html">Preparing The Show</a></h3>
+                                                    <h3><a href="/events/single">Preparing The Show</a></h3>
                                                 </figcaption>
                                             </figure>
                                         </li>
                                         <li>
                                             <figure> <img src="{{asset("assets")}}/extra-images/event-gallery-5.jpg" alt="">
                                                 <figcaption>
-                                                    <h3><a href="event-single.html">Preparing The Show</a></h3>
+                                                    <h3><a href="/events/single">Preparing The Show</a></h3>
                                                 </figcaption>
                                             </figure>
                                         </li>
                                         <li>
                                             <figure> <img src="{{asset("assets")}}/extra-images/event-gallery-6.jpg" alt="">
                                                 <figcaption>
-                                                    <h3><a href="event-single.html">Preparing The Show</a></h3>
+                                                    <h3><a href="/events/single">Preparing The Show</a></h3>
                                                 </figcaption>
                                             </figure>
                                         </li>
@@ -359,109 +359,109 @@
                         <div class="widget widget_add">
                             <a href="#"><img alt="" src="{{asset("assets")}}/extra-images/widget-add-2.jpg"></a>
                         </div>
-                        <div class="widget widget_artists">
-                            <div class="wm-widget-heading">
-                                <h2>featured artists:</h2>
-                            </div>
-                            <ul>
-                                <li>
-                                    <figure>
-                                        <a href="artist-single.html"><img alt="" src="{{asset("assets")}}/extra-images/featured-widget-1.jpg"></a>
-                                    </figure>
-                                    <section class="wm-newsinfo">
-                                        <h3><a href="artist-single.html">Annie Myers–Pop</a></h3>
-                                        <a href="artist-single.html">9 Albums on Sale</a>
-                                        <div class="clearfix"></div>
-                                    </section>
-                                </li>
-                                <li>
-                                    <figure>
-                                        <a href="artist-single.html"><img alt="" src="{{asset("assets")}}/extra-images/featured-widget-2.jpg"></a>
-                                    </figure>
-                                    <section class="wm-newsinfo">
-                                        <h3><a href="artist-single.html">Annie Myers–Pop</a></h3>
-                                        <a href="artist-single.html">7 Albums on Sale</a>
-                                        <div class="clearfix"></div>
-                                    </section>
-                                </li>
-                                <li>
-                                    <figure>
-                                        <a href="artist-single.html"><img alt="" src="{{asset("assets")}}/extra-images/featured-widget-3.jpg"></a>
-                                    </figure>
-                                    <section class="wm-newsinfo">
-                                        <h3><a href="artist-single.html">Ralph Franz–Rock</a></h3>
-                                        <a href="artist-single.html">8 Albums on Sale</a>
-                                        <div class="clearfix"></div>
-                                    </section>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="widget widget_upcoming_listing">
-                            <div class="wm-widget-heading">
-                                <h2>upcoming listing</h2>
-                            </div>
-                            <ul>
-                                <li>
-                                    <figure>
-                                        <a href="album-single-post.html"><img alt="" src="{{asset("assets")}}/extra-images/listing-widget-1.jpg"></a>
-                                    </figure>
-                                    <section class="wm-newsinfo">
-                                        <h3><a href="album-single-post.html">Capitán Tapón</a></h3>
-                                        <h4>Alejandro Sanz</h4>
-                                        <span>Played: 2 mins ago</span>
-                                        <div class="clearfix"></div>
-                                    </section>
-                                </li>
-                                <li>
-                                    <figure>
-                                        <a href="album-single-post.html"><img alt="" src="{{asset("assets")}}/extra-images/listing-widget-2.jpg"></a>
-                                    </figure>
-                                    <section class="wm-newsinfo">
-                                        <h3><a href="album-single-post.html">Same Old Love</a></h3>
-                                        <h4>Jennifer James</h4>
-                                        <span>Played: 3 mins ago</span>
-                                        <div class="clearfix"></div>
-                                    </section>
-                                </li>
-                                <li>
-                                    <figure>
-                                        <a href="album-single-post.html"><img alt="" src="{{asset("assets")}}/extra-images/listing-widget-3.jpg"></a>
-                                    </figure>
-                                    <section class="wm-newsinfo">
-                                        <h3><a href="album-single-post.html">I Found A Girl</a></h3>
-                                        <h4>The Vamps</h4>
-                                        <span>Played: 5 mins ago</span>
-                                        <div class="clearfix"></div>
-                                    </section>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="widget widget-gallery">
-                            <div class="wm-widget-heading">
-                                <h2>upcoming events</h2>
-                            </div>
-                            <div class="widget-gallery-wrap">
-                                <div class="wm-layer">
-                                    <figure> <img src="{{asset("assets")}}/extra-images/widget-gallery-1.jpg" alt="">
-                                        <figcaption>
-                                            <time datetime="2013-04-10 18:30"><span>07:30 PM</span></time>
-                                            <h3>SAP Center at San Jose,CA</h3>
-                                            <div id="widget-Countdown-one"></div>
-                                        </figcaption>
-                                    </figure>
-                                </div>
-                                <div class="wm-layer">
-                                    <figure> <img src="{{asset("assets")}}/extra-images/widget-gallery-1.jpg" alt="">
-                                        <figcaption>
-                                            <time datetime="2013-04-10 18:30"><span>07:30 PM</span></time>
-                                            <h3>SAP Center at San Jose,CA</h3>
-                                            <div id="widget-Countdown-two"></div>
-                                        </figcaption>
-                                    </figure>
-                                </div>
-                            </div>
-                            <!-- START SLICK SLIDER -->
-                        </div>
+{{--                        <div class="widget widget_artists">--}}
+{{--                            <div class="wm-widget-heading">--}}
+{{--                                <h2>featured artists:</h2>--}}
+{{--                            </div>--}}
+{{--                            <ul>--}}
+{{--                                <li>--}}
+{{--                                    <figure>--}}
+{{--                                        <a href="artist-single.html"><img alt="" src="{{asset("assets")}}/extra-images/featured-widget-1.jpg"></a>--}}
+{{--                                    </figure>--}}
+{{--                                    <section class="wm-newsinfo">--}}
+{{--                                        <h3><a href="artist-single.html">Annie Myers–Pop</a></h3>--}}
+{{--                                        <a href="artist-single.html">9 Albums on Sale</a>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                    </section>--}}
+{{--                                </li>--}}
+{{--                                <li>--}}
+{{--                                    <figure>--}}
+{{--                                        <a href="artist-single.html"><img alt="" src="{{asset("assets")}}/extra-images/featured-widget-2.jpg"></a>--}}
+{{--                                    </figure>--}}
+{{--                                    <section class="wm-newsinfo">--}}
+{{--                                        <h3><a href="artist-single.html">Annie Myers–Pop</a></h3>--}}
+{{--                                        <a href="artist-single.html">7 Albums on Sale</a>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                    </section>--}}
+{{--                                </li>--}}
+{{--                                <li>--}}
+{{--                                    <figure>--}}
+{{--                                        <a href="artist-single.html"><img alt="" src="{{asset("assets")}}/extra-images/featured-widget-3.jpg"></a>--}}
+{{--                                    </figure>--}}
+{{--                                    <section class="wm-newsinfo">--}}
+{{--                                        <h3><a href="artist-single.html">Ralph Franz–Rock</a></h3>--}}
+{{--                                        <a href="artist-single.html">8 Albums on Sale</a>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                    </section>--}}
+{{--                                </li>--}}
+{{--                            </ul>--}}
+{{--                        </div>--}}
+{{--                        <div class="widget widget_upcoming_listing">--}}
+{{--                            <div class="wm-widget-heading">--}}
+{{--                                <h2>upcoming listing</h2>--}}
+{{--                            </div>--}}
+{{--                            <ul>--}}
+{{--                                <li>--}}
+{{--                                    <figure>--}}
+{{--                                        <a href="album-single-post.html"><img alt="" src="{{asset("assets")}}/extra-images/listing-widget-1.jpg"></a>--}}
+{{--                                    </figure>--}}
+{{--                                    <section class="wm-newsinfo">--}}
+{{--                                        <h3><a href="album-single-post.html">Capitán Tapón</a></h3>--}}
+{{--                                        <h4>Alejandro Sanz</h4>--}}
+{{--                                        <span>Played: 2 mins ago</span>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                    </section>--}}
+{{--                                </li>--}}
+{{--                                <li>--}}
+{{--                                    <figure>--}}
+{{--                                        <a href="album-single-post.html"><img alt="" src="{{asset("assets")}}/extra-images/listing-widget-2.jpg"></a>--}}
+{{--                                    </figure>--}}
+{{--                                    <section class="wm-newsinfo">--}}
+{{--                                        <h3><a href="album-single-post.html">Same Old Love</a></h3>--}}
+{{--                                        <h4>Jennifer James</h4>--}}
+{{--                                        <span>Played: 3 mins ago</span>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                    </section>--}}
+{{--                                </li>--}}
+{{--                                <li>--}}
+{{--                                    <figure>--}}
+{{--                                        <a href="album-single-post.html"><img alt="" src="{{asset("assets")}}/extra-images/listing-widget-3.jpg"></a>--}}
+{{--                                    </figure>--}}
+{{--                                    <section class="wm-newsinfo">--}}
+{{--                                        <h3><a href="album-single-post.html">I Found A Girl</a></h3>--}}
+{{--                                        <h4>The Vamps</h4>--}}
+{{--                                        <span>Played: 5 mins ago</span>--}}
+{{--                                        <div class="clearfix"></div>--}}
+{{--                                    </section>--}}
+{{--                                </li>--}}
+{{--                            </ul>--}}
+{{--                        </div>--}}
+{{--                        <div class="widget widget-gallery">--}}
+{{--                            <div class="wm-widget-heading">--}}
+{{--                                <h2>upcoming events</h2>--}}
+{{--                            </div>--}}
+{{--                            <div class="widget-gallery-wrap">--}}
+{{--                                <div class="wm-layer">--}}
+{{--                                    <figure> <img src="{{asset("assets")}}/extra-images/widget-gallery-1.jpg" alt="">--}}
+{{--                                        <figcaption>--}}
+{{--                                            <time datetime="2013-04-10 18:30"><span>07:30 PM</span></time>--}}
+{{--                                            <h3>SAP Center at San Jose,CA</h3>--}}
+{{--                                            <div id="widget-Countdown-one"></div>--}}
+{{--                                        </figcaption>--}}
+{{--                                    </figure>--}}
+{{--                                </div>--}}
+{{--                                <div class="wm-layer">--}}
+{{--                                    <figure> <img src="{{asset("assets")}}/extra-images/widget-gallery-1.jpg" alt="">--}}
+{{--                                        <figcaption>--}}
+{{--                                            <time datetime="2013-04-10 18:30"><span>07:30 PM</span></time>--}}
+{{--                                            <h3>SAP Center at San Jose,CA</h3>--}}
+{{--                                            <div id="widget-Countdown-two"></div>--}}
+{{--                                        </figcaption>--}}
+{{--                                    </figure>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                            <!-- START SLICK SLIDER -->--}}
+{{--                        </div>--}}
                     </aside>
                 </div>
             </div>

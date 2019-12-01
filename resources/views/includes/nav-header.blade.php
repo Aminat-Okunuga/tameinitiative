@@ -62,7 +62,7 @@
 {{--                                    </ul>--}}
                                 </li>
                                 <li><a href="/talents">Talents</a> </li>
-                                <li><a href="/services">Services</a> </li>
+{{--                                <li><a href="/services">Services</a> </li>--}}
                                 <li><a href="/galleries">Gallery</a> </li>
                                 <li><a href="/about-us">About Us</a> </li>
                                 <li><a href="/contacts">Contact</a></li>

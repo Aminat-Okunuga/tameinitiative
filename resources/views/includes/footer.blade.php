@@ -1,75 +1,75 @@
 <footer id="wm-footer" class="footer-two">
 
     <!--// Footer Widget \\-->
-    <div class="wm-footer-widgets">
-        <div class="container">
-            <div class="row">
-                <aside class="col-md-4 widget widget_slider">
-                    <div class="wm-footer-widget-title"> <h2>Don’t miss this:</h2> </div>
-                    <div class="widget_slider_wrap">
-                        <div class="widget_slide_layer"><img src="{{asset("assets")}}/extra-images/widget-slider-1.jpg" alt=""></div>
-                        <div class="widget_slide_layer"><img src="{{asset("assets")}}/extra-images/widget-slider-1.jpg" alt=""></div>
-                    </div>
-                    <h4>Photo Recap: Charles Jemmington @ <span>Joy Theater New Orleans</span> on 25/04/16</h4>
-                </aside>
-                <aside class="col-md-4 widget widget_artists">
-                    <div class="wm-footer-widget-title"> <h2>featured artists:</h2> </div>
-                    <ul>
-                        <li>
-                            <figure> <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-widget-1.jpg" alt=""></a> </figure>
-                            <section class="wm-newsinfo">
-                                <h3><a href="artist-single.html">Annie B. Myers – Pop Singer</a></h3>
-                                <a href="artist-single.html">9 Albums on Sale</a>
-                                <div class="clearfix"></div>
-                            </section>
-                        </li>
-                        <li>
-                            <figure> <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-widget-2.jpg" alt=""></a> </figure>
-                            <section class="wm-newsinfo">
-                                <h3><a href="artist-single.html">Chris R. Gonzalez – Soul Singer</a></h3>
-                                <a href="artist-single.html">7 Albums on Sale</a>
-                                <div class="clearfix"></div>
-                            </section>
-                        </li>
-                        <li>
-                            <figure> <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-widget-3.jpg" alt=""></a> </figure>
-                            <section class="wm-newsinfo">
-                                <h3><a href="artist-single.html">Ralph L. Franz – Rock Band</a></h3>
-                                <a href="artist-single.html">8 Albums on Sale</a>
-                                <div class="clearfix"></div>
-                            </section>
-                        </li>
-                    </ul>
-                </aside>
-                <aside class="col-md-4 widget widget_weekstracks">
-                    <div class="wm-footer-widget-title"> <h2>this week’s tracks:</h2> </div>
-                    <ul>
-                        <li>
-                            <time datetime="2008-02-14 20:00">/01</time>
-                            <section class="wm-weekstracks-text">
-                                <h5><a href="album-single-post.html">Of All Things (feat. Too $hort) Top 100 Uk</a></h5>
-                                <span class="wm-color">201.123 listeners</span>
-                            </section>
-                        </li>
-                        <li>
-                            <time datetime="2008-02-14 20:00">/02</time>
-                            <section class="wm-weekstracks-text">
-                                <h5><a href="album-single-post.html">Everything Will Be OK (feat. Kehlani) Top 100 Uk</a></h5>
-                                <span class="wm-color">176.009 listeners</span>
-                            </section>
-                        </li>
-                        <li>
-                            <time datetime="2008-02-14 20:00">/03</time>
-                            <section class="wm-weekstracks-text">
-                                <h5><a href="album-single-post.html">Some Kind of Drug (feat. Marc Bass) Top 100 Uk</a></h5>
-                                <span class="wm-color">101.865 listeners</span>
-                            </section>
-                        </li>
-                    </ul>
-                </aside>
-            </div>
-        </div>
-    </div>
+{{--    <div class="wm-footer-widgets">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row">--}}
+{{--                <aside class="col-md-4 widget widget_slider">--}}
+{{--                    <div class="wm-footer-widget-title"> <h2>Don’t miss this:</h2> </div>--}}
+{{--                    <div class="widget_slider_wrap">--}}
+{{--                        <div class="widget_slide_layer"><img src="{{asset("assets")}}/extra-images/widget-slider-1.jpg" alt=""></div>--}}
+{{--                        <div class="widget_slide_layer"><img src="{{asset("assets")}}/extra-images/widget-slider-1.jpg" alt=""></div>--}}
+{{--                    </div>--}}
+{{--                    <h4>Photo Recap: Charles Jemmington @ <span>Joy Theater New Orleans</span> on 25/04/16</h4>--}}
+{{--                </aside>--}}
+{{--                <aside class="col-md-4 widget widget_artists">--}}
+{{--                    <div class="wm-footer-widget-title"> <h2>featured artists:</h2> </div>--}}
+{{--                    <ul>--}}
+{{--                        <li>--}}
+{{--                            <figure> <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-widget-1.jpg" alt=""></a> </figure>--}}
+{{--                            <section class="wm-newsinfo">--}}
+{{--                                <h3><a href="artist-single.html">Annie B. Myers – Pop Singer</a></h3>--}}
+{{--                                <a href="artist-single.html">9 Albums on Sale</a>--}}
+{{--                                <div class="clearfix"></div>--}}
+{{--                            </section>--}}
+{{--                        </li>--}}
+{{--                        <li>--}}
+{{--                            <figure> <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-widget-2.jpg" alt=""></a> </figure>--}}
+{{--                            <section class="wm-newsinfo">--}}
+{{--                                <h3><a href="artist-single.html">Chris R. Gonzalez – Soul Singer</a></h3>--}}
+{{--                                <a href="artist-single.html">7 Albums on Sale</a>--}}
+{{--                                <div class="clearfix"></div>--}}
+{{--                            </section>--}}
+{{--                        </li>--}}
+{{--                        <li>--}}
+{{--                            <figure> <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-widget-3.jpg" alt=""></a> </figure>--}}
+{{--                            <section class="wm-newsinfo">--}}
+{{--                                <h3><a href="artist-single.html">Ralph L. Franz – Rock Band</a></h3>--}}
+{{--                                <a href="artist-single.html">8 Albums on Sale</a>--}}
+{{--                                <div class="clearfix"></div>--}}
+{{--                            </section>--}}
+{{--                        </li>--}}
+{{--                    </ul>--}}
+{{--                </aside>--}}
+{{--                <aside class="col-md-4 widget widget_weekstracks">--}}
+{{--                    <div class="wm-footer-widget-title"> <h2>this week’s tracks:</h2> </div>--}}
+{{--                    <ul>--}}
+{{--                        <li>--}}
+{{--                            <time datetime="2008-02-14 20:00">/01</time>--}}
+{{--                            <section class="wm-weekstracks-text">--}}
+{{--                                <h5><a href="album-single-post.html">Of All Things (feat. Too $hort) Top 100 Uk</a></h5>--}}
+{{--                                <span class="wm-color">201.123 listeners</span>--}}
+{{--                            </section>--}}
+{{--                        </li>--}}
+{{--                        <li>--}}
+{{--                            <time datetime="2008-02-14 20:00">/02</time>--}}
+{{--                            <section class="wm-weekstracks-text">--}}
+{{--                                <h5><a href="album-single-post.html">Everything Will Be OK (feat. Kehlani) Top 100 Uk</a></h5>--}}
+{{--                                <span class="wm-color">176.009 listeners</span>--}}
+{{--                            </section>--}}
+{{--                        </li>--}}
+{{--                        <li>--}}
+{{--                            <time datetime="2008-02-14 20:00">/03</time>--}}
+{{--                            <section class="wm-weekstracks-text">--}}
+{{--                                <h5><a href="album-single-post.html">Some Kind of Drug (feat. Marc Bass) Top 100 Uk</a></h5>--}}
+{{--                                <span class="wm-color">101.865 listeners</span>--}}
+{{--                            </section>--}}
+{{--                        </li>--}}
+{{--                    </ul>--}}
+{{--                </aside>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
     <!--// Footer Widget \\-->
 
     <!--// Footer Bottom Section \\-->
@@ -95,7 +95,9 @@
                                     <li><a href="https://www.spotify.com/int/why-not-available/"><i class="flaticon-social-3"></i> spotify</a></li>
                                     <li><a href="http://musicbeats.net/"><i class="flaticon-shape"></i> Musicbeat</a></li>
                                 </ul>
-                                <p>© 2019 TAMEInitiative, All Right - by <a href="http://devchuksemeka.com">DevChuksEmeka</a></p>
+                                <p>&copy; 2019 TAMEInitiative, All Right Reserved
+{{--                                    - by <a href="http://devchuksemeka.com">DevChuksEmeka</a>--}}
+                                </p>
                             </div>
                         </div>
                     </div>

@@ -13,7 +13,7 @@
                     </div>
                     <div class="clearfix"></div>
                     <ul class="wm-breadcrumb">
-                        <li><a href="/inner">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li>Contact Us</li>
                     </ul>
                 </div>
@@ -28,14 +28,14 @@
             <div class="container">
                 <div class="row">
                     <div class="wm-contactus">
-                        <div class="col-md-9">
+                        <div class="col-md-8">
                             <div class="wm-custom">
                                 <div class="wm-contactus-map">
                                     <div id="map"></div>
                                 </div>
                             </div>
                         </div>
-                        <aside class="col-md-3">
+                        <aside class="col-md-4">
                             <div class="wm-widget-contactus">
                                 <div class="wm-widget-heading">
                                     <h2>Contact Details</h2>
@@ -46,30 +46,23 @@
                                             <span>Address:</span>
                                             <p>417 Hall Street Reno,NV 89503</p>
                                         </li>
-                                        <li>
-                                            <span>Freephone:</span>
-                                            <p>(012) 345-6789</p>
-                                        </li>
+
                                         <li>
                                             <span>	Telephone:</span>
-                                            <p>(012) 345-6443</p>
-                                        </li>
-                                        <li>
-                                            <span>	FAX:</span>
-                                            <p>(012) 345-6443</p>
+                                            <p>+ (234) 701 669 4767</p>
                                         </li>
                                         <li>
                                             <span>	E-mail:</span>
-                                            <p>info@musicbeat.com</p>
+                                            <p>hello@tameinitiative.com</p>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="wm-social-icon">
                                     <ul>
-                                        <li><a class="fa fa-facebook-square" href="https://www.facebook.com/"></a></li>
-                                        <li><a class="fa fa-twitter-square" href="https://mobile.twitter.com/"></a></li>
-                                        <li><a class="fa fa-soundcloud" href="http://musicbeats.net/"></a></li>
-                                        <li><a class="fa fa-spotify" href="https://www.spotify.com/int/why-not-available/"></a></li>
+                                        <li><a class="fa fa-facebook-square" href="#"></a></li>
+                                        <li><a class="fa fa-twitter-square" href="#"></a></li>
+                                        <li><a class="fa fa-soundcloud" href="#"></a></li>
+                                        <li><a class="fa fa-spotify" href="#"></a></li>
                                     </ul>
                                 </div>
                             </div>

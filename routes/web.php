@@ -11,10 +11,8 @@
 |
 */
 
-Route::prefix('/inner')->group(function () {
-    Route::get('/', function () {
-        return view('pages.home.index');
-    });
+Route::get('/', function () {
+    return view('pages.home.index');
 });
 
 Route::prefix('/events')->group(function () {
@@ -29,10 +27,7 @@ Route::prefix('/talents')->namespace('Talent')->group(function () {
     Route::get('/', 'TalentController@index');
     Route::get('/single', 'TalentController@singleTalent');
 });
-Route::prefix('/services')->namespace('Service')->group(function () {
-    Route::get('/', 'ServiceController@index');
-//    Route::get('/single', 'TalentController@singleTalent');
-});
+
 Route::prefix('/galleries')->namespace('Gallery')->group(function () {
     Route::get('/', 'GalleryController@index');
 });
@@ -45,11 +40,6 @@ Route::prefix('/about-us')->namespace('AboutUs')->group(function () {
 
 Route::prefix('/notify-me')->group(function () {
     Route::post('/', 'ComingSoonNotificationController@notifyMe');
-});
-
-
-Route::get('/', function () {
-    return view('pages.coming-soon');
 });
 
 
