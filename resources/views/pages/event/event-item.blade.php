@@ -44,13 +44,13 @@
                   Great Britain</span> </div>
                             </div>
                         </div>
-                        <div class="wm-event-map">
-                            <div id="map"></div>
-                        </div>
+{{--                        <div class="wm-event-map">--}}
+{{--                            <div id="map"></div>--}}
+{{--                        </div>--}}
                         <div class="wm-tabs">
                             <ul role="tablist" class="wm-tabs-wrap">
                                 <li class="active" role="presentation"><a data-toggle="tab" role="tab" href="#description" aria-expanded="true"> Description</a></li>
-                                <li role="presentation" class=""><a data-toggle="tab" role="tab" href="#ticket" aria-expanded="false">ticket information details</a></li>
+                                <li role="presentation" class=""><a data-toggle="tab" role="tab" href="#ticket" aria-expanded="false">Ticket Payment Information details</a></li>
                                 <li role="presentation" class=""><a data-toggle="tab" role="tab" href="#event" aria-expanded="false">event performers</a></li>
                             </ul>
                             <div class="tab-content">
@@ -202,37 +202,37 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="wm-timeline">
-                            <div class="wm-blog-heading">
-                                <h2>Event Standings</h2>
-                            </div>
-                            <ul>
-                                <li>
-                                    <time datetime="2013-04-10 18:30"><span>2012 - 2013</span></time>
-                                    <div class="wm-tmicon"></div>
-                                    <div class="wm-tmlabel">
-                                        <h2>For All Kings Album</h2>
-                                        <p>Marcus Rezak (Stratosphere All-Stars, FlightWave) and Jesse Clayton (FlightWave) traded ideas all night and somehow infused “Shakedown Street” with some Zappa styled improv.</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <time datetime="2013-04-10 18:30"><span>2014 - 2015</span></time>
-                                    <div class="wm-tmicon"></div>
-                                    <div class="wm-tmlabel">
-                                        <h2>This Unruly Mess I've Made Album </h2>
-                                        <p>Wilco just finished off a two-night run at The Cap in New York and our friend Cory Schwartz was there last night to grab photos from the second show.</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <time datetime="2013-04-10 18:30"><span>2015 - Present</span></time>
-                                    <div class="wm-tmicon"></div>
-                                    <div class="wm-tmlabel">
-                                        <h2>Summertime: Willie Nelson Sings Gershwin Album</h2>
-                                        <p>Back in October word leaked that James Murphy was getting LCD Soundsystem back together for a few Coach ella performances. It was quickly dismissed by DFA.</p>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
+{{--                        <div class="wm-timeline">--}}
+{{--                            <div class="wm-blog-heading">--}}
+{{--                                <h2>Event Standings</h2>--}}
+{{--                            </div>--}}
+{{--                            <ul>--}}
+{{--                                <li>--}}
+{{--                                    <time datetime="2013-04-10 18:30"><span>2012 - 2013</span></time>--}}
+{{--                                    <div class="wm-tmicon"></div>--}}
+{{--                                    <div class="wm-tmlabel">--}}
+{{--                                        <h2>For All Kings Album</h2>--}}
+{{--                                        <p>Marcus Rezak (Stratosphere All-Stars, FlightWave) and Jesse Clayton (FlightWave) traded ideas all night and somehow infused “Shakedown Street” with some Zappa styled improv.</p>--}}
+{{--                                    </div>--}}
+{{--                                </li>--}}
+{{--                                <li>--}}
+{{--                                    <time datetime="2013-04-10 18:30"><span>2014 - 2015</span></time>--}}
+{{--                                    <div class="wm-tmicon"></div>--}}
+{{--                                    <div class="wm-tmlabel">--}}
+{{--                                        <h2>This Unruly Mess I've Made Album </h2>--}}
+{{--                                        <p>Wilco just finished off a two-night run at The Cap in New York and our friend Cory Schwartz was there last night to grab photos from the second show.</p>--}}
+{{--                                    </div>--}}
+{{--                                </li>--}}
+{{--                                <li>--}}
+{{--                                    <time datetime="2013-04-10 18:30"><span>2015 - Present</span></time>--}}
+{{--                                    <div class="wm-tmicon"></div>--}}
+{{--                                    <div class="wm-tmlabel">--}}
+{{--                                        <h2>Summertime: Willie Nelson Sings Gershwin Album</h2>--}}
+{{--                                        <p>Back in October word leaked that James Murphy was getting LCD Soundsystem back together for a few Coach ella performances. It was quickly dismissed by DFA.</p>--}}
+{{--                                    </div>--}}
+{{--                                </li>--}}
+{{--                            </ul>--}}
+{{--                        </div>--}}
                         <div class="wm-event-gallery">
                             <div class="wm-blog-heading">
                                 <h2>Post Event Gallery</h2>
@@ -334,25 +334,25 @@
                             </div>
                         </div>
                         <!-- END SLICK SLIDER -->
-                        <div class="wm-blog-tags wm-events-tags">
-                            <div class="wm-blog-heading">
-                                <h2>Tags</h2>
-                            </div>
-                            <ul class="wm-tags">
-                                <li><a href="#">Entertainment</a></li>
-                                <li><a href="#">guitar</a></li>
-                                <li><a href="#">DJ’s</a></li>
-                                <li><a href="#">singing</a></li>
-                                <li><a href="#">singing</a></li>
-                                <li><a href="#">celebrity</a></li>
-                            </ul>
-                            <ul class="wm-tags-social">
-                                <li><a href="#https://www.facebook.com/"><i class="flaticon-social-1"></i></a></li>
-                                <li><a href="#https://mobile.twitter.com/"><i class="flaticon-social-2"></i></a></li>
-                                <li><a href="#http://musicbeats.net/"><i class="flaticon-shape"></i></a></li>
-                                <li><a href="#https://www.spotify.com/int/why-not-available/"><i class="flaticon-social-3"></i></a></li>
-                            </ul>
-                        </div>
+{{--                        <div class="wm-blog-tags wm-events-tags">--}}
+{{--                            <div class="wm-blog-heading">--}}
+{{--                                <h2>Tags</h2>--}}
+{{--                            </div>--}}
+{{--                            <ul class="wm-tags">--}}
+{{--                                <li><a href="#">Entertainment</a></li>--}}
+{{--                                <li><a href="#">guitar</a></li>--}}
+{{--                                <li><a href="#">DJ’s</a></li>--}}
+{{--                                <li><a href="#">singing</a></li>--}}
+{{--                                <li><a href="#">singing</a></li>--}}
+{{--                                <li><a href="#">celebrity</a></li>--}}
+{{--                            </ul>--}}
+{{--                            <ul class="wm-tags-social">--}}
+{{--                                <li><a href="#https://www.facebook.com/"><i class="flaticon-social-1"></i></a></li>--}}
+{{--                                <li><a href="#https://mobile.twitter.com/"><i class="flaticon-social-2"></i></a></li>--}}
+{{--                                <li><a href="#http://musicbeats.net/"><i class="flaticon-shape"></i></a></li>--}}
+{{--                                <li><a href="#https://www.spotify.com/int/why-not-available/"><i class="flaticon-social-3"></i></a></li>--}}
+{{--                            </ul>--}}
+{{--                        </div>--}}
                     </div>
                     <aside class="col-md-3">
                         {{-- ASIDE Adverts --}}

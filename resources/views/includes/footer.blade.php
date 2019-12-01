@@ -95,7 +95,7 @@
                                     <li><a href="https://www.spotify.com/int/why-not-available/"><i class="flaticon-social-3"></i> spotify</a></li>
                                     <li><a href="http://musicbeats.net/"><i class="flaticon-shape"></i> Musicbeat</a></li>
                                 </ul>
-                                <p>© 2019 TAAMEInitiative, All Right - by <a href="http://devchuksemeka.com">DevChuksEmeka</a></p>
+                                <p>© 2019 TAMEInitiative, All Right - by <a href="http://devchuksemeka.com">DevChuksEmeka</a></p>
                             </div>
                         </div>
                     </div>
