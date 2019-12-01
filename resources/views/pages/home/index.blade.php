@@ -10,7 +10,7 @@
                     <span>Charles Jemmington  //</span>
                     <div class="clearfix"></div>
                     <h1>Play The Moments</h1>
-                    <a href="album-list.html" class="wm-banner-btn wm-bgcolor"><i class="flaticon-tool"></i> Get New Album</a>
+                    <a href="#" class="wm-banner-btn wm-bgcolor"><i class="flaticon-tool"></i> Get New Album</a>
                 </div>
                 <div class="wm-banner-thumb"><img src="{{asset("assets")}}/extra-images/banne-view2-1.jpg" alt=""></div>
             </div>
@@ -19,7 +19,7 @@
                     <span>Those beetlejuices  //</span>
                     <div class="clearfix"></div>
                     <h1>the side scenes</h1>
-                    <a href="album-list.html" class="wm-banner-btn wm-bgcolor"><i class="flaticon-tool"></i> Get New Album</a>
+                    <a href="#" class="wm-banner-btn wm-bgcolor"><i class="flaticon-tool"></i> Get New Album</a>
                 </div>
                 <div class="wm-banner-thumb"><img src="{{asset("assets")}}/extra-images/banne-view2-2.jpg" alt=""></div>
             </div>
@@ -28,7 +28,7 @@
                     <span>we’ll dance all night //</span>
                     <div class="clearfix"></div>
                     <h1>Crazy Dancing</h1>
-                    <a href="album-list.html" class="wm-banner-btn wm-bgcolor"><i class="flaticon-tool"></i> Get New Album</a>
+                    <a href="#" class="wm-banner-btn wm-bgcolor"><i class="flaticon-tool"></i> Get New Album</a>
                 </div>
                 <div class="wm-banner-thumb"><img src="{{asset("assets")}}/extra-images/banne-view2-3.jpg" alt=""></div>
             </div>
@@ -47,65 +47,65 @@
                         <div class="wm-event wm-event-list">
                             <ul class="row">
                                 <li class="col-md-12">
-                                    <figure><a href="event-single.html"><img src="{{asset("assets")}}/extra-images/event-medium-1.jpg" alt=""></a>
+                                    <figure><a href="/events/single"><img src="{{asset("assets")}}/extra-images/event-medium-1.jpg" alt=""></a>
                                         <figcaption class="wm-bgcolor">
                                             <span>25</span> <span>03</span> <span>16</span>
                                         </figcaption>
                                     </figure>
                                     <div class="wm-event-text">
                                         <div class="wm-event-info">
-                                            <h2><a href="event-single.html">United Center - Chicago, IL</a></h2>
+                                            <h2><a href="/events/single">United Center - Chicago, IL</a></h2>
                                             <time datetime="2008-02-14 20:00">@ 08:00pm</time>
                                             <p>The five-year wait will at last come to an end in 2016, as GRAMMY winner they confirmed dates for the 25 Tour, which will include...</p>
                                         </div>
                                         <div class="wm-event-link">
-                                            <a href="event-single.html">Details</a>
-                                            <a href="event-single.html">Tickets</a>
+                                            <a href="/events/single">Details</a>
+                                            <a href="/events/single">Tickets</a>
                                         </div>
                                         <div class="clearix"></div>
                                     </div>
                                 </li>
                                 <li class="col-md-12">
-                                    <figure><a href="event-single.html"><img src="{{asset("assets")}}/extra-images/event-medium-2.jpg" alt=""></a>
+                                    <figure><a href="/events/single"><img src="{{asset("assets")}}/extra-images/event-medium-2.jpg" alt=""></a>
                                         <figcaption class="wm-bgcolor">
                                             <span>15</span> <span>04</span> <span>16</span>
                                         </figcaption>
                                     </figure>
                                     <div class="wm-event-text">
                                         <div class="wm-event-info">
-                                            <h2><a href="event-single.html">Rogers Arena - Vancouver, BC, CA</a></h2>
+                                            <h2><a href="/events/single">Rogers Arena - Vancouver, BC, CA</a></h2>
                                             <time datetime="2008-02-14 20:00">@ 07:00pm</time>
                                             <p>From there, the Adele tour will hit most major markets, with nearly every city getting multiple nights of shows, including two-plus...</p>
                                         </div>
                                         <div class="wm-event-link">
-                                            <a href="event-single.html">Details</a>
-                                            <a href="event-single.html">Tickets</a>
+                                            <a href="/events/single">Details</a>
+                                            <a href="/events/single">Tickets</a>
                                         </div>
                                         <div class="clearix"></div>
                                     </div>
                                 </li>
                                 <li class="col-md-12">
-                                    <figure><a href="event-single.html"><img src="{{asset("assets")}}/extra-images/event-medium-3.jpg" alt=""></a>
+                                    <figure><a href="/events/single"><img src="{{asset("assets")}}/extra-images/event-medium-3.jpg" alt=""></a>
                                         <figcaption class="wm-bgcolor">
                                             <span>07</span> <span>05</span> <span>16</span>
                                         </figcaption>
                                     </figure>
                                     <div class="wm-event-text">
                                         <div class="wm-event-info">
-                                            <h2><a href="event-single.html">Staples Center - Los Angeles, CA</a></h2>
+                                            <h2><a href="/events/single">Staples Center - Los Angeles, CA</a></h2>
                                             <time datetime="2008-02-14 20:00">@ 09:00pm</time>
                                             <p>Los Angeles (Aug. 5-6, 9-10, 12-13), New York (Sept. 19-20, 22-23, 25-26), and Toronto (Oct. 3-4, 6-7). At the time of the Dec. 14...</p>
                                         </div>
                                         <div class="wm-event-link">
-                                            <a href="event-single.html">Details</a>
-                                            <a href="event-single.html">Tickets</a>
+                                            <a href="/events/single">Details</a>
+                                            <a href="/events/single">Tickets</a>
                                         </div>
                                         <div class="clearix"></div>
                                     </div>
                                 </li>
                             </ul>
                         </div>
-                        <div class="wm-checkall-btn"><a href="/inner/events">Check All Events</a></div>
+                        <div class="wm-checkall-btn"><a href="/events">Check All Events</a></div>
                     </div>
                 </div>
             </div>
@@ -186,7 +186,7 @@
 {{--                                </li>--}}
 {{--                            </ul>--}}
 {{--                        </div>--}}
-{{--                        <div class="wm-seeall-btn"><a href="album-list.html" class="wm-bgcolor">See All</a></div>--}}
+{{--                        <div class="wm-seeall-btn"><a href="#" class="wm-bgcolor">See All</a></div>--}}
 {{--                    </div>--}}
 {{--                </div>--}}
 {{--            </div>--}}
@@ -210,7 +210,7 @@
 {{--                                            <p>Xcel Energy Center</p>--}}
 {{--                                        </div>--}}
 {{--                                        <div class="clearfix"></div>--}}
-{{--                                        <a href="event-single.html" class="wm-ticket-btn"></a>--}}
+{{--                                        <a href="/events/single" class="wm-ticket-btn"></a>--}}
 {{--                                    </div>--}}
 {{--                                </li>--}}
 {{--                                <li class="col-md-3">--}}
@@ -223,7 +223,7 @@
 {{--                                            <p>Talking Stick Arena</p>--}}
 {{--                                        </div>--}}
 {{--                                        <div class="clearfix"></div>--}}
-{{--                                        <a href="event-single.html" class="wm-ticket-btn"></a>--}}
+{{--                                        <a href="/events/single" class="wm-ticket-btn"></a>--}}
 {{--                                    </div>--}}
 {{--                                </li>--}}
 {{--                                <li class="col-md-3">--}}
@@ -236,7 +236,7 @@
 {{--                                            <p>Palace of Auburn Hills</p>--}}
 {{--                                        </div>--}}
 {{--                                        <div class="clearfix"></div>--}}
-{{--                                        <a href="event-single.html" class="wm-ticket-btn"></a>--}}
+{{--                                        <a href="/events/single" class="wm-ticket-btn"></a>--}}
 {{--                                    </div>--}}
 {{--                                </li>--}}
 {{--                                <li class="col-md-3">--}}
@@ -249,7 +249,7 @@
 {{--                                            <p>Wells Fargo Center</p>--}}
 {{--                                        </div>--}}
 {{--                                        <div class="clearfix"></div>--}}
-{{--                                        <a href="event-single.html" class="wm-ticket-btn"></a>--}}
+{{--                                        <a href="/events/single" class="wm-ticket-btn"></a>--}}
 {{--                                    </div>--}}
 {{--                                </li>--}}
 {{--                            </ul>--}}
@@ -273,80 +273,80 @@
                         <div class="wm-artist wm-artist-grid wm-albummasonry-list">
                             <ul class="row">
                                 <li class="col-md-3 jquery">
-                                    <figure><a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-1.jpg" alt=""></a>
-                                        <figcaption><a href="album-single-post.html"><i class="flaticon-search"></i></a></figcaption>
+                                    <figure><a href="/galleries"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-1.jpg" alt=""></a>
+                                        <figcaption><a href="/galleries"><i class="flaticon-search"></i></a></figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
-                                        <h2><a href="album-single-post.html">MetLife Stadium</a></h2>
+                                        <h2><a href="/galleries">MetLife Stadium</a></h2>
                                         <span>East Rutherford, NJ</span>
                                     </div>
                                 </li>
                                 <li class="col-md-3 php">
                                     <figure>
-                                        <a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-2.jpg" alt=""></a>
-                                        <figcaption><a href="album-single-post.html"><i class="flaticon-search"></i></a></figcaption>
+                                        <a href="/galleries"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-2.jpg" alt=""></a>
+                                        <figcaption><a href="/galleries"><i class="flaticon-search"></i></a></figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
-                                        <h2><a href="album-single-post.html">Lincoln Financial Field</a></h2>
+                                        <h2><a href="/galleries">Lincoln Financial Field</a></h2>
                                         <span>Philadelphia, PA</span>
                                     </div>
                                 </li>
                                 <li class="col-md-3 wordpress">
                                     <figure>
-                                        <a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-3.jpg" alt=""></a>
-                                        <figcaption><a href="album-single-post.html"><i class="flaticon-search"></i></a></figcaption>
+                                        <a href="/galleries"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-3.jpg" alt=""></a>
+                                        <figcaption><a href="/galleries"><i class="flaticon-search"></i></a></figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
-                                        <h2><a href="album-single-post.html">Rose Bowl Stadium</a></h2>
+                                        <h2><a href="/galleries">Rose Bowl Stadium</a></h2>
                                         <span>Pasadena, CA</span>
                                     </div>
                                 </li>
                                 <li class="col-md-3 jquery">
                                     <figure>
-                                        <a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-4.jpg" alt=""></a>
-                                        <figcaption> <a href="album-single-post.html"><i class="flaticon-search"></i></a> </figcaption>
+                                        <a href="/galleries"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-4.jpg" alt=""></a>
+                                        <figcaption> <a href="/galleries"><i class="flaticon-search"></i></a> </figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
-                                        <h2><a href="album-single-post.html">AT&T Stadium</a></h2>
+                                        <h2><a href="/galleries">AT&T Stadium</a></h2>
                                         <span>Arlington, TX</span>
                                     </div>
                                 </li>
                                 <li class="col-md-3 wordpress">
-                                    <figure><a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-5.jpg" alt=""></a>
-                                        <figcaption><a href="album-single-post.html"><i class="flaticon-search"></i></a></figcaption>
+                                    <figure><a href="/galleries"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-5.jpg" alt=""></a>
+                                        <figcaption><a href="/galleries"><i class="flaticon-search"></i></a></figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
-                                        <h2><a href="album-single-post.html">Manchester Etihad Stadium</a></h2>
+                                        <h2><a href="/galleries">Manchester Etihad Stadium</a></h2>
                                         <span>UK - Manchester, GB</span>
                                     </div>
                                 </li>
                                 <li class="col-md-3 php">
                                     <figure>
-                                        <a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-6.jpg" alt=""></a>
-                                        <figcaption><a href="album-single-post.html"><i class="flaticon-search"></i></a></figcaption>
+                                        <a href="/galleries"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-6.jpg" alt=""></a>
+                                        <figcaption><a href="/galleries"><i class="flaticon-search"></i></a></figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
-                                        <h2><a href="album-single-post.html">Wembley Stadium</a></h2>
+                                        <h2><a href="/galleries">Wembley Stadium</a></h2>
                                         <span> London, GB</span>
                                     </div>
                                 </li>
                                 <li class="col-md-3 jquery">
                                     <figure>
-                                        <a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-7.jpg" alt=""></a>
-                                        <figcaption><a href="album-single-post.html"><i class="flaticon-search"></i></a></figcaption>
+                                        <a href="/galleries"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-7.jpg" alt=""></a>
+                                        <figcaption><a href="/galleries"><i class="flaticon-search"></i></a></figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
-                                        <h2><a href="album-single-post.html">Gillette Stadium</a></h2>
+                                        <h2><a href="/galleries">Gillette Stadium</a></h2>
                                         <span>Foxborough, MA</span>
                                     </div>
                                 </li>
                                 <li class="col-md-3 php">
                                     <figure>
-                                        <a href="album-single-post.html"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-8.jpg" alt=""></a>
-                                        <figcaption> <a href="album-single-post.html"><i class="flaticon-search"></i></a> </figcaption>
+                                        <a href="/galleries"><img src="{{asset("assets")}}/extra-images/ourimage-gallery-8.jpg" alt=""></a>
+                                        <figcaption> <a href="/galleries"><i class="flaticon-search"></i></a> </figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
-                                        <h2><a href="album-single-post.html">Soldier Field</a></h2>
+                                        <h2><a href="/galleries">Soldier Field</a></h2>
                                         <span>Chicago, IL</span>
                                     </div>
                                 </li>
@@ -368,51 +368,51 @@
 
 {{--                            <div class="wm-latest-album-slide">--}}
 {{--                                <figure>--}}
-{{--                                    <a href="album-single-post.html" class="graythumb">--}}
+{{--                                    <a href="/galleries" class="graythumb">--}}
 {{--                                        <img src="{{asset("assets")}}/extra-images/latest-album-1.jpg" alt="">--}}
 {{--                                    </a>--}}
 {{--                                    <figcaption>--}}
-{{--                                        <a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a>--}}
+{{--                                        <a href="/galleries" class="wm-bgcolor">12 Tracks</a>--}}
 {{--                                    </figcaption--}}
 {{--                                ></figure>--}}
 {{--                                <div class="wm-latest-album-text">--}}
-{{--                                    <h2><a href="album-single-post.html">Everything Will Be OK</a></h2>--}}
+{{--                                    <h2><a href="/galleries">Everything Will Be OK</a></h2>--}}
 {{--                                    <span>$23.99</span>--}}
 {{--                                    <div class="clearfix"></div>--}}
-{{--                                    <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>--}}
+{{--                                    <a href="/galleries" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>--}}
 {{--                                </div>--}}
 {{--                            </div>--}}
 
 {{--                            <div class="wm-latest-album-slide">--}}
-{{--                                <figure><a href="album-single-post.html" class="graythumb">--}}
+{{--                                <figure><a href="/galleries" class="graythumb">--}}
 {{--                                        <img src="{{asset("assets")}}/extra-images/latest-album-2.jpg" alt="">--}}
-{{--                                    </a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>--}}
+{{--                                    </a> <figcaption><a href="/galleries" class="wm-bgcolor">12 Tracks</a></figcaption></figure>--}}
 {{--                                <div class="wm-latest-album-text">--}}
-{{--                                    <h2><a href="album-single-post.html">You Mean Nothing To Me</a></h2>--}}
+{{--                                    <h2><a href="/galleries">You Mean Nothing To Me</a></h2>--}}
 {{--                                    <span>$19.00</span>--}}
 {{--                                    <div class="clearfix"></div>--}}
-{{--                                    <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>--}}
+{{--                                    <a href="/galleries" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>--}}
 {{--                                </div>--}}
 {{--                            </div>--}}
 
 {{--                            <div class="wm-latest-album-slide">--}}
-{{--                                <figure><a href="album-single-post.html" class="graythumb">--}}
-{{--                                        <img src="{{asset("assets")}}/extra-images/latest-album-3.jpg" alt=""></a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>--}}
+{{--                                <figure><a href="/galleries" class="graythumb">--}}
+{{--                                        <img src="{{asset("assets")}}/extra-images/latest-album-3.jpg" alt=""></a> <figcaption><a href="/galleries" class="wm-bgcolor">12 Tracks</a></figcaption></figure>--}}
 {{--                                <div class="wm-latest-album-text">--}}
-{{--                                    <h2><a href="album-single-post.html">Heat The Dance Floor</a></h2>--}}
+{{--                                    <h2><a href="/galleries">Heat The Dance Floor</a></h2>--}}
 {{--                                    <span>$15.00</span>--}}
 {{--                                    <div class="clearfix"></div>--}}
-{{--                                    <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>--}}
+{{--                                    <a href="/galleries" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>--}}
 {{--                                </div>--}}
 {{--                            </div>--}}
 
 {{--                            <div class="wm-latest-album-slide">--}}
-{{--                                <figure><a href="album-single-post.html" class="graythumb"><img src="{{asset("assets")}}/extra-images/latest-album-2.jpg" alt=""></a> <figcaption><a href="album-single-post.html" class="wm-bgcolor">12 Tracks</a></figcaption></figure>--}}
+{{--                                <figure><a href="/galleries" class="graythumb"><img src="{{asset("assets")}}/extra-images/latest-album-2.jpg" alt=""></a> <figcaption><a href="/galleries" class="wm-bgcolor">12 Tracks</a></figcaption></figure>--}}
 {{--                                <div class="wm-latest-album-text">--}}
-{{--                                    <h2><a href="album-single-post.html">You Mean Nothing To Me</a></h2>--}}
+{{--                                    <h2><a href="/galleries">You Mean Nothing To Me</a></h2>--}}
 {{--                                    <span>$19.00</span>--}}
 {{--                                    <div class="clearfix"></div>--}}
-{{--                                    <a href="album-single-post.html" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>--}}
+{{--                                    <a href="/galleries" class="wm-bayalbum-btn wm-bgcolor"><i class="flaticon-tool"></i> buy album</a>--}}
 {{--                                </div>--}}
 {{--                            </div>--}}
 {{--                        </div>--}}
@@ -429,41 +429,41 @@
                         <div class="wm-artist wm-artist-grid">
                             <ul class="row">
                                 <li class="col-md-3">
-                                    <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-1.jpg" alt=""></a>
-                                        <figcaption><a href="artist-single.html"><i class="flaticon-link"></i></a></figcaption>
+                                    <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/artist-grid-1.jpg" alt=""></a>
+                                        <figcaption><a href="/talents/single"><i class="flaticon-link"></i></a></figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
-                                        <h2><a href="artist-single.html">Jenny James Young</a></h2>
+                                        <h2><a href="/talents/single">Jenny James Young</a></h2>
                                         <span>Rhythm guitarist</span>
                                     </div>
                                 </li>
                                 <li class="col-md-3">
                                     <figure>
-                                        <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-2.jpg" alt=""></a>
-                                        <figcaption><a href="artist-single.html"><i class="flaticon-link"></i></a></figcaption>
+                                        <a href="/talents/single"><img src="{{asset("assets")}}/extra-images/artist-grid-2.jpg" alt=""></a>
+                                        <figcaption><a href="/talents/single"><i class="flaticon-link"></i></a></figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
-                                        <h2><a href="artist-single.html">Angus Jeremy Young</a></h2>
+                                        <h2><a href="/talents/single">Angus Jeremy Young</a></h2>
                                         <span>Backing vocalist </span>
                                     </div>
                                 </li>
                                 <li class="col-md-3">
                                     <figure>
-                                        <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-3.jpg" alt=""></a>
-                                        <figcaption><a href="artist-single.html"><i class="flaticon-link"></i></a></figcaption>
+                                        <a href="/talents/single"><img src="{{asset("assets")}}/extra-images/artist-grid-3.jpg" alt=""></a>
+                                        <figcaption><a href="/talents/single"><i class="flaticon-link"></i></a></figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
-                                        <h2><a href="artist-single.html">Briennne Carla Johnson</a></h2>
+                                        <h2><a href="/talents/single">Briennne Carla Johnson</a></h2>
                                         <span>Lead singer</span>
                                     </div>
                                 </li>
                                 <li class="col-md-3">
                                     <figure>
-                                        <a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-4.jpg" alt=""></a>
-                                        <figcaption> <a href="artist-single.html"><i class="flaticon-link"></i></a> </figcaption>
+                                        <a href="/talents/single"><img src="{{asset("assets")}}/extra-images/artist-grid-4.jpg" alt=""></a>
+                                        <figcaption> <a href="/talents/single"><i class="flaticon-link"></i></a> </figcaption>
                                     </figure>
                                     <div class="wm-artist-title">
-                                        <h2><a href="artist-single.html">Cliffany Jana Williams</a></h2>
+                                        <h2><a href="/talents/single">Cliffany Jana Williams</a></h2>
                                         <span>Bassist</span>
                                     </div>
                                 </li>

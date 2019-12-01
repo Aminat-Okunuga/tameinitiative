@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0f9cb13-a2ae-43c8-b9fb-b1c4e1a13fbe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/includes/nav-header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/includes/nav-header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/about/about-us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/about/about-us.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/contact/contacts.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/contact/contacts.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/event/event-item.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/event/event-item.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/event/events.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/event/events.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/gallery/galleries.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/gallery/galleries.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/home/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/home/index.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +45,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/pages/contact/contacts.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
+            <state relative-caret-position="653">
               <caret line="64" column="76" selection-start-line="64" selection-start-column="76" selection-end-line="64" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/pages/home/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="275" column="53" lean-forward="true" selection-start-line="275" selection-start-column="53" selection-end-line="275" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -69,17 +71,19 @@
       <find>wm-countdown</find>
       <find>countdown</find>
       <find>ticket</find>
-      <find>event-single.html</find>
       <find>album-single-post.html</find>
-      <find>#</find>
       <find>artist-single.html</find>
       <find>/talent/single</find>
+      <find>album-list.html</find>
+      <find>#</find>
+      <find>event-single.html</find>
     </findStrings>
     <replaceStrings>
-      <replace>/events/single</replace>
       <replace>/talent</replace>
       <replace>/talent/single</replace>
       <replace>/talents/single</replace>
+      <replace>#</replace>
+      <replace>/events/single</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -98,7 +102,6 @@
         <option value="$PROJECT_DIR$/resources/views/pages/talent/talents.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Talent/TalentController.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/talent/talent-item.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/pages/home/index.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Service/ServiceController.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/service/services.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/gallery/gallery.blade.php" />
@@ -123,6 +126,7 @@
         <option value="$PROJECT_DIR$/resources/views/pages/gallery/galleries.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/about/about-us.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/contact/contacts.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/pages/home/index.blade.php" />
       </list>
     </option>
   </component>
@@ -313,6 +317,14 @@
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="gallery" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tameinitiative.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tameinitiative.com" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -374,12 +386,12 @@
       <workItem from="1574638227992" duration="5314000" />
       <workItem from="1575024819690" duration="1137000" />
       <workItem from="1575060226535" duration="1802000" />
-      <workItem from="1575221202114" duration="1364000" />
+      <workItem from="1575221202114" duration="2157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27728000" />
+    <option name="totallyTimeSpent" value="28521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="23" width="1441" height="820" extended-state="0" />
@@ -572,17 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/pages/home/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="357" column="14" selection-start-line="357" selection-start-column="14" selection-end-line="357" selection-end-column="14" />
-          <folding>
-            <element signature="e#6889#13953#0#HTML" />
-            <element signature="e#13954#18486#0#HTML" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -827,8 +828,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/pages/contact/contacts.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="653">
           <caret line="64" column="76" selection-start-line="64" selection-start-column="76" selection-end-line="64" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pages/home/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="275" column="53" lean-forward="true" selection-start-line="275" selection-start-column="53" selection-end-line="275" selection-end-column="75" />
         </state>
       </provider>
     </entry>
