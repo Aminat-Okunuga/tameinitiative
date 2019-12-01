@@ -481,7 +481,7 @@
                 <div class="row">
                     <div class="col-md-8 no-padding-left">
                         <div class="wm-twitter-wrap">
-                            <div class="wm-twitter-title"><h2><i class="flaticon-social-2"></i> Twitter Feed</h2></div>
+                            <div class="wm-twitter-title"><h2><i class="flaticon-social-2"></i> Testimonial</h2></div>
                             <div class="clearfix"></div>
                             <div class="wm-twitter-slider">
                                 <div class="wm-twitter-slide-layer"><p>“Just announced the official release date for their sophomore album, The Insider Mind as February 27th.” -  <a href="blog-single.html">The Band</a></p></div>

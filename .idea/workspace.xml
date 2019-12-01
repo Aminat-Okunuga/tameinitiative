@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0f9cb13-a2ae-43c8-b9fb-b1c4e1a13fbe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/home/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/home/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+            <state relative-caret-position="189">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -54,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/pages/home/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="465" column="68" selection-start-line="465" selection-start-column="53" selection-end-line="465" selection-end-column="68" />
+            <state relative-caret-position="3213">
+              <caret line="427" column="90" selection-start-line="427" selection-start-column="90" selection-end-line="427" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -97,7 +97,6 @@
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/Home/index.blade.php" />
         <option value="$PROJECT_DIR$/public/template/coming-soon.html" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/talents/talents.blade.php" />
         <option value="$PROJECT_DIR$/public/template/artist-grid-wsidebar.html" />
         <option value="$PROJECT_DIR$/resources/views/pages/talent/talents.blade.php" />
@@ -128,6 +127,7 @@
         <option value="$PROJECT_DIR$/resources/views/pages/about/about-us.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/contact/contacts.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/home/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
       </list>
     </option>
   </component>
@@ -387,12 +387,12 @@
       <workItem from="1574638227992" duration="5314000" />
       <workItem from="1575024819690" duration="1137000" />
       <workItem from="1575060226535" duration="1802000" />
-      <workItem from="1575221202114" duration="2449000" />
+      <workItem from="1575221202114" duration="2699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28813000" />
+    <option name="totallyTimeSpent" value="29063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="23" width="1441" height="820" extended-state="0" />
@@ -767,13 +767,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/includes/nav-header.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -835,8 +828,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/pages/home/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="465" column="68" selection-start-line="465" selection-start-column="53" selection-end-line="465" selection-end-column="68" />
+        <state relative-caret-position="3213">
+          <caret line="427" column="90" selection-start-line="427" selection-start-column="90" selection-end-line="427" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
