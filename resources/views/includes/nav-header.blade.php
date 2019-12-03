@@ -45,7 +45,7 @@
                         </div>
                         <div class="collapse navbar-collapse" id="navbar-collapse-1">
                             <ul class="nav navbar-nav">
-                                <li class="active"><a href="/">Home</a>
+                                <li class="active"><a href="/inner">Home</a>
 {{--                                    <ul class="wm-dropdown-menu">--}}
 {{--                                        <li><a href="index-2.html">MusciBeat Home V1</a></li>--}}
 {{--                                        <li><a href="index-two.html">MusciBeat Home V2</a></li>--}}

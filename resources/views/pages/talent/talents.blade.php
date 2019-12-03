@@ -33,12 +33,12 @@
                                     <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/artist-grid-1.jpg" alt=""></a>
 
                                         <figcaption>
-                                            <a href="/talents/single""><i class="flaticon-link"></i></a>
+                                            <a href="/talents/single"><i class="flaticon-link"></i></a>
                                         </figcaption>
                                     </figure>
 
                                     <div class="wm-artist-title">
-                                        <h2><a href="/talents/single"">Jenny James Young</a></h2>
+                                        <h2><a href="/talents/single"> Jenny James Young</a></h2>
                                         <span>Rhythm guitarist</span>
                                     </div>
                                 </li>
@@ -96,131 +96,131 @@
 
                                 <li class="col-md-4">
                                     <figure>
-                                        <a href="artist-single.html">
+                                        <a href="/talents/single">
                                             <img src="{{asset("assets")}}/extra-images/artist-grid-5.jpg" alt="">
                                         </a>
 
                                         <figcaption>
-                                            <a href="artist-single.html"><i class="flaticon-link"></i></a>
+                                            <a href="/talents/single"><i class="flaticon-link"></i></a>
                                         </figcaption>
                                     </figure>
 
                                     <div class="wm-artist-title">
-                                        <h2><a href="artist-single.html">Paula Curatolo</a></h2>
+                                        <h2><a href="/talents/single">Paula Curatolo</a></h2>
                                         <span>Vocals, Rhythm Guitar, Piano</span>
                                     </div>
                                 </li>
 
                                 <li class="col-md-4">
                                     <figure>
-                                        <a href="artist-single.html">
+                                        <a href="/talents/single">
                                             <img src="{{asset("assets")}}/extra-images/artist-grid-6.jpg" alt="">
                                         </a>
 
                                         <figcaption>
-                                            <a href="artist-single.html"><i class="flaticon-link"></i></a>
+                                            <a href="/talents/single"><i class="flaticon-link"></i></a>
                                         </figcaption>
                                     </figure>
 
                                     <div class="wm-artist-title">
-                                        <h2><a href="artist-single.html">Angelina Landes</a></h2>
+                                        <h2><a href="/talents/single">Angelina Landes</a></h2>
                                         <span>Drums, Percussion, Vocals</span>
                                     </div>
                                 </li>
 
                                 <li class="col-md-4">
                                     <figure>
-                                        <a href="artist-single.html">
+                                        <a href="/talents/single">
                                             <img src="{{asset("assets")}}/extra-images/artist-grid-7.jpg" alt="">
                                         </a>
 
                                         <figcaption>
-                                            <a href="artist-single.html"><i class="flaticon-link"></i></a>
+                                            <a href="/talents/single"><i class="flaticon-link"></i></a>
                                         </figcaption>
                                     </figure>
 
                                     <div class="wm-artist-title">
-                                        <h2><a href="artist-single.html">Jimmy Irizarry</a></h2>
+                                        <h2><a href="/talents/single">Jimmy Irizarry</a></h2>
                                         <span>Rhythm Guitar, Piano, Harmonica</span>
                                     </div>
                                 </li>
 
                                 <li class="col-md-4">
                                     <figure>
-                                        <a href="artist-single.html">
+                                        <a href="/talents/single">
                                             <img src="{{asset("assets")}}/extra-images/artist-grid-8.jpg" alt="">
                                         </a>
 
                                         <figcaption>
-                                            <a href="artist-single.html"><i class="flaticon-link"></i></a>
+                                            <a href="/talents/single"><i class="flaticon-link"></i></a>
                                         </figcaption>
                                     </figure>
 
                                     <div class="wm-artist-title">
-                                        <h2><a href="artist-single.html">Joe Bithorn</a></h2>
+                                        <h2><a href="/talents/singlel">Joe Bithorn</a></h2>
                                         <span>Drums, Percussion, Vocals</span>
                                     </div>
                                 </li>
                                 <li class="col-md-4">
-                                    <figure><a href="artist-single.html"><img src="{{asset("assets")}}/extra-images/artist-grid-1.jpg" alt=""></a>
+                                    <figure><a href="/talents/single"><img src="{{asset("assets")}}/extra-images/artist-grid-1.jpg" alt=""></a>
 
                                         <figcaption>
-                                            <a href="artist-single.html"><i class="flaticon-link"></i></a>
+                                            <a href="/talents/single"><i class="flaticon-link"></i></a>
                                         </figcaption>
                                     </figure>
 
                                     <div class="wm-artist-title">
-                                        <h2><a href="artist-single.html">Jenny James Young</a></h2>
+                                        <h2><a href="/talents/single">Jenny James Young</a></h2>
                                         <span>Rhythm guitarist</span>
                                     </div>
                                 </li>
                                 <li class="col-md-4">
                                     <figure>
-                                        <a href="artist-single.html">
+                                        <a href="/talents/single">
                                             <img src="{{asset("assets")}}/extra-images/artist-grid-4.jpg" alt="">
                                         </a>
 
                                         <figcaption>
-                                            <a href="artist-single.html"><i class="flaticon-link"></i></a>
+                                            <a href="/talents/single"><i class="flaticon-link"></i></a>
                                         </figcaption>
                                     </figure>
 
                                     <div class="wm-artist-title">
-                                        <h2><a href="artist-single.html">Cliffany Jana Williams</a></h2>
+                                        <h2><a href="/talents/single">Cliffany Jana Williams</a></h2>
                                         <span>Bassist</span>
                                     </div>
                                 </li>
 
                                 <li class="col-md-4">
                                     <figure>
-                                        <a href="artist-single.html">
+                                        <a href="/talents/single">
                                             <img src="{{asset("assets")}}/extra-images/artist-grid-6.jpg" alt="">
                                         </a>
 
                                         <figcaption>
-                                            <a href="artist-single.html"><i class="flaticon-link"></i></a>
+                                            <a href="/talents/single"><i class="flaticon-link"></i></a>
                                         </figcaption>
                                     </figure>
 
                                     <div class="wm-artist-title">
-                                        <h2><a href="artist-single.html">Paula Curatolo</a></h2>
+                                        <h2><a href="/talents/single">Paula Curatolo</a></h2>
                                         <span>Vocals, Rhythm Guitar, Piano</span>
                                     </div>
                                 </li>
 
                                 <li class="col-md-4">
                                     <figure>
-                                        <a href="artist-single.html">
+                                        <a href="/talents/single">
                                             <img src="{{asset("assets")}}/extra-images/artist-grid-5.jpg" alt="">
                                         </a>
 
                                         <figcaption>
-                                            <a href="artist-single.html"><i class="flaticon-link"></i></a>
+                                            <a href="/talents/single"><i class="flaticon-link"></i></a>
                                         </figcaption>
                                     </figure>
 
                                     <div class="wm-artist-title">
-                                        <h2><a href="artist-single.html">Angelina Landes</a></h2>
+                                        <h2><a href="/talents/single">Angelina Landes</a></h2>
                                         <span>Drums, Percussion, Vocals</span>
                                     </div>
                                 </li>
@@ -246,31 +246,31 @@
                             <ul>
                                 <li>
                                     <figure>
-                                        <a href="artist-single.html"><img alt="" src="{{asset("assets")}}/extra-images/featured-widget-1.jpg"></a>
+                                        <a href="/talents/single"><img alt="" src="{{asset("assets")}}/extra-images/featured-widget-1.jpg"></a>
                                     </figure>
                                     <section class="wm-newsinfo">
-                                        <h3><a href="artist-single.html">Annie Myers–Pop</a></h3>
-                                        <a href="artist-single.html">9 Albums on Sale</a>
+                                        <h3><a href="/talents/single">Annie Myers–Pop</a></h3>
+                                        <a href="/talents/single">9 Albums on Sale</a>
                                         <div class="clearfix"></div>
                                     </section>
                                 </li>
                                 <li>
                                     <figure>
-                                        <a href="artist-single.html"><img alt="" src="{{asset("assets")}}/extra-images/featured-widget-2.jpg"></a>
+                                        <a href="/talents/single"><img alt="" src="{{asset("assets")}}/extra-images/featured-widget-2.jpg"></a>
                                     </figure>
                                     <section class="wm-newsinfo">
-                                        <h3><a href="artist-single.html">Annie Myers–Pop</a></h3>
-                                        <a href="artist-single.html">7 Albums on Sale</a>
+                                        <h3><a href="/talents/single">Annie Myers–Pop</a></h3>
+                                        <a href="/talents/single">7 Albums on Sale</a>
                                         <div class="clearfix"></div>
                                     </section>
                                 </li>
                                 <li>
                                     <figure>
-                                        <a href="artist-single.html"><img alt="" src="{{asset("assets")}}/extra-images/featured-widget-3.jpg"></a>
+                                        <a href="/talents/single"><img alt="" src="{{asset("assets")}}/extra-images/featured-widget-3.jpg"></a>
                                     </figure>
                                     <section class="wm-newsinfo">
-                                        <h3><a href="artist-single.html">Ralph Franz–Rock</a></h3>
-                                        <a href="artist-single.html">8 Albums on Sale</a>
+                                        <h3><a href="/talents/single">Ralph Franz–Rock</a></h3>
+                                        <a href="/talents/single">8 Albums on Sale</a>
                                         <div class="clearfix"></div>
                                     </section>
                                 </li>
@@ -283,10 +283,10 @@
                             <ul>
                                 <li>
                                     <figure>
-                                        <a href="artist-single.html"><img alt="" src="{{asset("assets")}}/extra-images/listing-widget-1.jpg"></a>
+                                        <a href="/talents/single"><img alt="" src="{{asset("assets")}}/extra-images/listing-widget-1.jpg"></a>
                                     </figure>
                                     <section class="wm-newsinfo">
-                                        <h3><a href="artist-single.html">Capitán Tapón</a></h3>
+                                        <h3><a href="/talents/single">Capitán Tapón</a></h3>
                                         <h4>Alejandro Sanz</h4>
                                         <span>Played: 2 mins ago</span>
                                         <div class="clearfix"></div>
@@ -294,10 +294,10 @@
                                 </li>
                                 <li>
                                     <figure>
-                                        <a href="artist-single.html"><img alt="" src="{{asset("assets")}}/extra-images/listing-widget-2.jpg"></a>
+                                        <a href="/talents/single"><img alt="" src="{{asset("assets")}}/extra-images/listing-widget-2.jpg"></a>
                                     </figure>
                                     <section class="wm-newsinfo">
-                                        <h3><a href="artist-single.html">Same Old Love</a></h3>
+                                        <h3><a href="/talents/single">Same Old Love</a></h3>
                                         <h4>Jennifer James</h4>
                                         <span>Played: 3 mins ago</span>
                                         <div class="clearfix"></div>
@@ -305,10 +305,10 @@
                                 </li>
                                 <li>
                                     <figure>
-                                        <a href="artist-single.html"><img alt="" src="{{asset("assets")}}/extra-images/listing-widget-3.jpg"></a>
+                                        <a href="/talents/single"><img alt="" src="{{asset("assets")}}/extra-images/listing-widget-3.jpg"></a>
                                     </figure>
                                     <section class="wm-newsinfo">
-                                        <h3><a href="artist-single.html">I Found A Girl</a></h3>
+                                        <h3><a href="/talents/single">I Found A Girl</a></h3>
                                         <h4>The Vamps</h4>
                                         <span>Played: 5 mins ago</span>
                                         <div class="clearfix"></div>

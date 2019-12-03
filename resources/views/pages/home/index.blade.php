@@ -6,31 +6,31 @@
 
         <div class="wm-banner-two">
             <div class="wm-bannertwo-slide">
-                <div class="wm-banner-caption">
-                    <span>Charles Jemmington  //</span>
-                    <div class="clearfix"></div>
-                    <h1>Play The Moments</h1>
-                    <a href="album-list.html" class="wm-banner-btn wm-bgcolor"><i class="flaticon-tool"></i> Get New Album</a>
-                </div>
-                <div class="wm-banner-thumb"><img src="{{asset("assets")}}/extra-images/banne-view2-1.jpg" alt=""></div>
+                {{--<div class="wm-banner-caption">--}}
+                    {{--<span>Charles Jemmington  //</span>--}}
+                    {{--<div class="clearfix"></div>--}}
+                    {{--<h1>Play The Moments</h1>--}}
+                    {{--<a href="album-list.html" class="wm-banner-btn wm-bgcolor"><i class="flaticon-tool"></i> Get New Album</a>--}}
+                {{--</div>--}}
+                <div class="wm-banner-thumb"><img src="{{asset("assets")}}/extra-images/tameini1.png" width="20000" alt=""></div>
             </div>
             <div class="wm-bannertwo-slide">
-                <div class="wm-banner-caption">
-                    <span>Those beetlejuices  //</span>
-                    <div class="clearfix"></div>
-                    <h1>the side scenes</h1>
-                    <a href="album-list.html" class="wm-banner-btn wm-bgcolor"><i class="flaticon-tool"></i> Get New Album</a>
-                </div>
-                <div class="wm-banner-thumb"><img src="{{asset("assets")}}/extra-images/banne-view2-2.jpg" alt=""></div>
+                {{--<div class="wm-banner-caption">--}}
+                    {{--<span>Those beetlejuices  //</span>--}}
+                    {{--<div class="clearfix"></div>--}}
+                    {{--<h1>the side scenes</h1>--}}
+                    {{--<a href="album-list.html" class="wm-banner-btn wm-bgcolor"><i class="flaticon-tool"></i> Get New Album</a>--}}
+                {{--</div>--}}
+                <div class="wm-banner-thumb"><img src="{{asset("assets")}}/extra-images/tameini5.jpg" width="20000" alt=""></div>
             </div>
             <div class="wm-bannertwo-slide">
-                <div class="wm-banner-caption">
-                    <span>we’ll dance all night //</span>
-                    <div class="clearfix"></div>
-                    <h1>Crazy Dancing</h1>
-                    <a href="album-list.html" class="wm-banner-btn wm-bgcolor"><i class="flaticon-tool"></i> Get New Album</a>
-                </div>
-                <div class="wm-banner-thumb"><img src="{{asset("assets")}}/extra-images/banne-view2-3.jpg" alt=""></div>
+                {{--<div class="wm-banner-caption">--}}
+                    {{--<span>we’ll dance all night //</span>--}}
+                    {{--<div class="clearfix"></div>--}}
+                    {{--<h1>Crazy Dancing</h1>--}}
+                    {{--<a href="album-list.html" class="wm-banner-btn wm-bgcolor"><i class="flaticon-tool"></i> Get New Album</a>--}}
+                {{--</div>--}}
+                <div class="wm-banner-thumb"><img src="{{asset("assets")}}/extra-images/tameini7.png" width="20000" alt=""></div>
             </div>
         </div>
 
@@ -47,58 +47,58 @@
                         <div class="wm-event wm-event-list">
                             <ul class="row">
                                 <li class="col-md-12">
-                                    <figure><a href="event-single.html"><img src="{{asset("assets")}}/extra-images/event-medium-1.jpg" alt=""></a>
+                                    <figure><a href="/events/single"><img src="{{asset("assets")}}/extra-images/tameini6.png" alt=""></a>
                                         <figcaption class="wm-bgcolor">
                                             <span>25</span> <span>03</span> <span>16</span>
                                         </figcaption>
                                     </figure>
                                     <div class="wm-event-text">
                                         <div class="wm-event-info">
-                                            <h2><a href="event-single.html">United Center - Chicago, IL</a></h2>
+                                            <h2><a href="/events/single">United Center - Chicago, IL</a></h2>
                                             <time datetime="2008-02-14 20:00">@ 08:00pm</time>
                                             <p>The five-year wait will at last come to an end in 2016, as GRAMMY winner they confirmed dates for the 25 Tour, which will include...</p>
                                         </div>
                                         <div class="wm-event-link">
-                                            <a href="event-single.html">Details</a>
-                                            <a href="event-single.html">Tickets</a>
+                                            <a href="/events/single">Details</a>
+                                            <a href="/events/single">Tickets</a>
                                         </div>
                                         <div class="clearix"></div>
                                     </div>
                                 </li>
                                 <li class="col-md-12">
-                                    <figure><a href="event-single.html"><img src="{{asset("assets")}}/extra-images/event-medium-2.jpg" alt=""></a>
+                                    <figure><a href="/events/single"><img src="{{asset("assets")}}/extra-images/4.jpg"  alt=""></a>
                                         <figcaption class="wm-bgcolor">
                                             <span>15</span> <span>04</span> <span>16</span>
                                         </figcaption>
                                     </figure>
                                     <div class="wm-event-text">
                                         <div class="wm-event-info">
-                                            <h2><a href="event-single.html">Rogers Arena - Vancouver, BC, CA</a></h2>
+                                            <h2><a href="/events/single">Rogers Arena - Vancouver, BC, CA</a></h2>
                                             <time datetime="2008-02-14 20:00">@ 07:00pm</time>
                                             <p>From there, the Adele tour will hit most major markets, with nearly every city getting multiple nights of shows, including two-plus...</p>
                                         </div>
                                         <div class="wm-event-link">
-                                            <a href="event-single.html">Details</a>
-                                            <a href="event-single.html">Tickets</a>
+                                            <a href="/events/single">Details</a>
+                                            <a href="/events/single">Tickets</a>
                                         </div>
                                         <div class="clearix"></div>
                                     </div>
                                 </li>
                                 <li class="col-md-12">
-                                    <figure><a href="event-single.html"><img src="{{asset("assets")}}/extra-images/event-medium-3.jpg" alt=""></a>
+                                    <figure><a href="/events/single"><img src="{{asset("assets")}}/extra-images/tameini5.jpg" alt=""></a>
                                         <figcaption class="wm-bgcolor">
                                             <span>07</span> <span>05</span> <span>16</span>
                                         </figcaption>
                                     </figure>
                                     <div class="wm-event-text">
                                         <div class="wm-event-info">
-                                            <h2><a href="event-single.html">Staples Center - Los Angeles, CA</a></h2>
+                                            <h2><a href="/events/single">Staples Center - Los Angeles, CA</a></h2>
                                             <time datetime="2008-02-14 20:00">@ 09:00pm</time>
                                             <p>Los Angeles (Aug. 5-6, 9-10, 12-13), New York (Sept. 19-20, 22-23, 25-26), and Toronto (Oct. 3-4, 6-7). At the time of the Dec. 14...</p>
                                         </div>
                                         <div class="wm-event-link">
-                                            <a href="event-single.html">Details</a>
-                                            <a href="event-single.html">Tickets</a>
+                                            <a href="/events/single">Details</a>
+                                            <a href="/events/single">Tickets</a>
                                         </div>
                                         <div class="clearix"></div>
                                     </div>
@@ -481,7 +481,7 @@
                 <div class="row">
                     <div class="col-md-8 no-padding-left">
                         <div class="wm-twitter-wrap">
-                            <div class="wm-twitter-title"><h2><i class="flaticon-social-2"></i> Twitter Feed</h2></div>
+                            <div class="wm-twitter-title"><h2><i class="flaticon-social-2"></i> Testimonial</h2></div>
                             <div class="clearfix"></div>
                             <div class="wm-twitter-slider">
                                 <div class="wm-twitter-slide-layer"><p>“Just announced the official release date for their sophomore album, The Insider Mind as February 27th.” -  <a href="blog-single.html">The Band</a></p></div>

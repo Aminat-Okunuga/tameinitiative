@@ -30,7 +30,7 @@
                             <ul class="row">
                                 <li class="col-md-4">
                                     <div class="wm-event-grid-wrap">
-                                        <figure><a href="/inner/events/single"><img src="{{asset('assets')}}/extra-images/event-grid-4.jpg" alt=""></a>
+                                        <figure><a href="/events/single"><img src="{{asset('assets')}}/extra-images/event-grid-4.jpg" alt=""></a>
                                             <span class="wm-event-label">Open</span>
                                             <figcaption class="wm-bgcolor">
                                                 <span>25</span> <span>03</span> <span>16</span>
@@ -38,13 +38,13 @@
                                         </figure>
                                         <div class="wm-event-text">
                                             <div class="wm-event-info">
-                                                <h2><a href="/inner/events/single">United Center - Chicago, IL</a></h2>
+                                                <h2><a href="/events/single">United Center - Chicago, IL</a></h2>
                                                 <time datetime="2008-02-14 20:00">@ 08:00pm</time>
                                                 <p>The five-year wait will at last come to an end in 2016, as GRAMMY they have ...</p>
                                             </div>
                                             <div class="wm-event-link">
-                                                <a href="/inner/events/single">Details</a>
-                                                <a href="/inner/events/single">Tickets</a>
+                                                <a href="/events/single">Details</a>
+                                                <a href="/events/single">Tickets</a>
                                             </div>
                                             <div class="clearix"></div>
                                         </div>
@@ -60,13 +60,13 @@
                                         </figure>
                                         <div class="wm-event-text">
                                             <div class="wm-event-info">
-                                                <h2><a href="#">Rogers Arena - Vancouver, BC, CA</a></h2>
+                                                <h2><a href="/events/single">Rogers Arena - Vancouver, BC, CA</a></h2>
                                                 <time datetime="2008-02-14 20:00">@ 07:00pm</time>
                                                 <p>From there, the Adele tour will hit most major markets, with every city getting ...</p>
                                             </div>
                                             <div class="wm-event-link">
-                                                <a href="#">Details</a>
-                                                <a href="#">Tickets</a>
+                                                <a href="/events/single">Details</a>
+                                                <a href="/events/single">Tickets</a>
                                             </div>
                                             <div class="clearix"></div>
                                         </div>
@@ -87,8 +87,8 @@
                                                 <p>Los Angeles (Aug. 5-6, 9-10, 12-13), New York (Sept. 19-20, 22-23), and with ...</p>
                                             </div>
                                             <div class="wm-event-link">
-                                                <a href="#">Details</a>
-                                                <a href="#">Tickets</a>
+                                                <a href="/events/single">Details</a>
+                                                <a href="/events/single">Tickets</a>
                                             </div>
                                             <div class="clearix"></div>
                                         </div>
@@ -96,7 +96,7 @@
                                 </li>
                                 <li class="col-md-4 wm-cancelled">
                                     <div class="wm-event-grid-wrap">
-                                        <figure><a href="#"><img src="{{asset('assets')}}/extra-images/event-grid-7.jpg" alt=""></a>
+                                        <figure><a href="/events/single"><img src="{{asset('assets')}}/extra-images/event-grid-7.jpg" alt=""></a>
                                             <span class="wm-event-label">Cancelled</span>
                                             <figcaption class="wm-bgcolor">
                                                 <span>22</span> <span>03</span> <span>16</span>
@@ -104,13 +104,13 @@
                                         </figure>
                                         <div class="wm-event-text">
                                             <div class="wm-event-info">
-                                                <h2><a href="#">T-Mobile Arena - Las Vegas, NV</a></h2>
+                                                <h2><a href="/events/single">T-Mobile Arena - Las Vegas, NV</a></h2>
                                                 <time datetime="2008-02-14 20:00">@ 07:20pm</time>
                                                 <p>It was the Sunday night before we all went back to the grind of post...</p>
                                             </div>
                                             <div class="wm-event-link">
-                                                <a href="#">Details</a>
-                                                <a href="#">Tickets</a>
+                                                <a href="/events/single">Details</a>
+                                                <a href="/events/single">Tickets</a>
                                             </div>
                                             <div class="clearix"></div>
                                         </div>
@@ -126,13 +126,13 @@
                                         </figure>
                                         <div class="wm-event-text">
                                             <div class="wm-event-info">
-                                                <h2><a href="#">Levi's Stadium - Santa Clara, CA</a></h2>
+                                                <h2><a href="/events/single">Levi's Stadium - Santa Clara, CA</a></h2>
                                                 <time datetime="2008-02-14 20:00">@ 06:30pm</time>
                                                 <p>Jr. to The Late Show with Stephen Colbert for a of "Pretty Patty James”...</p>
                                             </div>
                                             <div class="wm-event-link">
-                                                <a href="#">Details</a>
-                                                <a href="#">Tickets</a>
+                                                <a href="/events/single">Details</a>
+                                                <a href="/events/single">Tickets</a>
                                             </div>
                                             <div class="clearix"></div>
                                         </div>
@@ -140,7 +140,7 @@
                                 </li>
                                 <li class="col-md-4">
                                     <div class="wm-event-grid-wrap">
-                                        <figure><a href="#"><img src="{{asset('assets')}}/extra-images/event-grid-8.jpg" alt=""></a>
+                                        <figure><a href="/events/single"><img src="{{asset('assets')}}/extra-images/event-grid-8.jpg" alt=""></a>
                                             <span class="wm-event-label wm-fewtickets">Few Tickets</span>
                                             <figcaption class="wm-bgcolor">
                                                 <span>23</span> <span>05</span> <span>16</span>
@@ -148,13 +148,13 @@
                                         </figure>
                                         <div class="wm-event-text">
                                             <div class="wm-event-info">
-                                                <h2><a href="#">Bowl Stadium - Pasadena, CA</a></h2>
+                                                <h2><a href="/events/single">Bowl Stadium - Pasadena, CA</a></h2>
                                                 <time datetime="2008-02-14 20:00">@ 08:20pm</time>
                                                 <p>New Year's Eve last night at the Palace Theatre in Albany, NY, and our Paul...</p>
                                             </div>
                                             <div class="wm-event-link">
-                                                <a href="#">Details</a>
-                                                <a href="#">Tickets</a>
+                                                <a href="/events/single">Details</a>
+                                                <a href="/events/single">Tickets</a>
                                             </div>
                                             <div class="clearix"></div>
                                         </div>
@@ -170,13 +170,13 @@
                                         </figure>
                                         <div class="wm-event-text">
                                             <div class="wm-event-info">
-                                                <h2><a href="#">United Center - Chicago, IL</a></h2>
+                                                <h2><a href="/events/single">United Center - Chicago, IL</a></h2>
                                                 <time datetime="2008-02-14 20:00">@ 08:00pm</time>
                                                 <p>The five-year wait will at last come to an end in 2016, as GRAMMY they have ...</p>
                                             </div>
                                             <div class="wm-event-link">
-                                                <a href="#">Details</a>
-                                                <a href="#">Tickets</a>
+                                                <a href="/events/single">Details</a>
+                                                <a href="/events/single">Tickets</a>
                                             </div>
                                             <div class="clearix"></div>
                                         </div>
@@ -192,13 +192,13 @@
                                         </figure>
                                         <div class="wm-event-text">
                                             <div class="wm-event-info">
-                                                <h2><a href="#">Rogers Arena - Vancouver, BC, CA</a></h2>
+                                                <h2><a href="/events/single">Rogers Arena - Vancouver, BC, CA</a></h2>
                                                 <time datetime="2008-02-14 20:00">@ 07:00pm</time>
                                                 <p>From there, the Adele tour will hit most major markets, with every city getting ...</p>
                                             </div>
                                             <div class="wm-event-link">
-                                                <a href="#">Details</a>
-                                                <a href="#">Tickets</a>
+                                                <a href="/events/single">Details</a>
+                                                <a href="/events/single">Tickets</a>
                                             </div>
                                             <div class="clearix"></div>
                                         </div>
@@ -214,13 +214,13 @@
                                         </figure>
                                         <div class="wm-event-text">
                                             <div class="wm-event-info">
-                                                <h2><a href="#">Staples Center - Los Angeles, CA</a></h2>
+                                                <h2><a href="/events/single">Staples Center - Los Angeles, CA</a></h2>
                                                 <time datetime="2008-02-14 20:00">@ 09:00pm</time>
                                                 <p>Los Angeles (Aug. 5-6, 9-10, 12-13), New York (Sept. 19-20, 22-23), and with ...</p>
                                             </div>
                                             <div class="wm-event-link">
-                                                <a href="#">Details</a>
-                                                <a href="#">Tickets</a>
+                                                <a href="/events/single">Details</a>
+                                                <a href="/events/single">Tickets</a>
                                             </div>
                                             <div class="clearix"></div>
                                         </div>
@@ -230,12 +230,12 @@
                         </div>
                         <div class="wm-pagination-wrap">
                             <ul class="wm-pagination">
-                                <li><a href="#">1</a></li>
+                                <li><a href="/events/single">1</a></li>
                                 <li class="active"><a href="#">2</a></li>
-                                <li><a href="#">3</a></li>
+                                <li><a href="/events/single">3</a></li>
                                 <li> . . . </li>
-                                <li><a href="#">38</a></li>
-                                <li><a href="#"><i class="flaticon-arrows"></i></a></li>
+                                <li><a href="/events/single">38</a></li>
+                                <li><a href="/events/single"><i class="flaticon-arrows"></i></a></li>
                             </ul>
                         </div>
                     </div>
