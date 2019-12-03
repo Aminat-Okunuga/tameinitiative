@@ -425,7 +425,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="wm-simple-facny-title wm-in-light"><h2>Our Band Members</h2></div>
+                        <div class="wm-simple-facny-title wm-in-light"><h2>Our Team</h2></div>
                         <div class="wm-artist wm-artist-grid">
                             <ul class="row">
                                 <li class="col-md-3">
